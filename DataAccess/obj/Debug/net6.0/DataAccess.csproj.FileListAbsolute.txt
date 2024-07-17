@@ -1,0 +1,30 @@
+C:\Users\Katherine\OneDrive\Documents\Proyecto 2\AssetsManageer\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+C:\Users\Katherine\OneDrive\Documents\Proyecto 2\AssetsManageer\DataAccess\bin\Debug\net6.0\DataAccess.dll
+C:\Users\Katherine\OneDrive\Documents\Proyecto 2\AssetsManageer\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\Katherine\OneDrive\Documents\Proyecto 2\AssetsManageer\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\Katherine\OneDrive\Documents\Proyecto 2\AssetsManageer\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Katherine\OneDrive\Documents\Proyecto 2\AssetsManageer\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\Katherine\OneDrive\Documents\Proyecto 2\AssetsManageer\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+C:\Users\Katherine\OneDrive\Documents\Proyecto 2\AssetsManageer\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Katherine\OneDrive\Documents\Proyecto 2\AssetsManageer\DataAccess\obj\Debug\net6.0\DataAccess.dll
+C:\Users\Katherine\OneDrive\Documents\Proyecto 2\AssetsManageer\DataAccess\obj\Debug\net6.0\refint\DataAccess.dll
+C:\Users\Katherine\OneDrive\Documents\Proyecto 2\AssetsManageer\DataAccess\obj\Debug\net6.0\DataAccess.pdb
+C:\Users\Katherine\OneDrive\Documents\Proyecto 2\AssetsManageer\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll
+C:\Users\Katherine\OneDrive\Documents\Proyecto 2\AssetsManageer\DataAccess\bin\Debug\net6.0\DTOs.dll
+C:\Users\Katherine\OneDrive\Documents\Proyecto 2\AssetsManageer\DataAccess\bin\Debug\net6.0\DTOs.pdb
+C:\Users\Katherine\OneDrive\Documents\Proyecto 2\AssetsManageer\DataAccess\obj\Debug\net6.0\DataAccess.csproj.Up2Date
+C:\Users\Katherine\OneDrive\Documents\aaDiseño y Construccion de Componentes\Gonzalez_Ortiz_Picado_Componentes_Laboratorio_Proceso_Desarrollo_de_Sofware\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+C:\Users\Katherine\OneDrive\Documents\aaDiseño y Construccion de Componentes\Gonzalez_Ortiz_Picado_Componentes_Laboratorio_Proceso_Desarrollo_de_Sofware\DataAccess\bin\Debug\net6.0\DataAccess.dll
+C:\Users\Katherine\OneDrive\Documents\aaDiseño y Construccion de Componentes\Gonzalez_Ortiz_Picado_Componentes_Laboratorio_Proceso_Desarrollo_de_Sofware\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\Katherine\OneDrive\Documents\aaDiseño y Construccion de Componentes\Gonzalez_Ortiz_Picado_Componentes_Laboratorio_Proceso_Desarrollo_de_Sofware\DataAccess\bin\Debug\net6.0\DTOs.dll
+C:\Users\Katherine\OneDrive\Documents\aaDiseño y Construccion de Componentes\Gonzalez_Ortiz_Picado_Componentes_Laboratorio_Proceso_Desarrollo_de_Sofware\DataAccess\bin\Debug\net6.0\DTOs.pdb
+C:\Users\Katherine\OneDrive\Documents\aaDiseño y Construccion de Componentes\Gonzalez_Ortiz_Picado_Componentes_Laboratorio_Proceso_Desarrollo_de_Sofware\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\Katherine\OneDrive\Documents\aaDiseño y Construccion de Componentes\Gonzalez_Ortiz_Picado_Componentes_Laboratorio_Proceso_Desarrollo_de_Sofware\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Katherine\OneDrive\Documents\aaDiseño y Construccion de Componentes\Gonzalez_Ortiz_Picado_Componentes_Laboratorio_Proceso_Desarrollo_de_Sofware\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\Katherine\OneDrive\Documents\aaDiseño y Construccion de Componentes\Gonzalez_Ortiz_Picado_Componentes_Laboratorio_Proceso_Desarrollo_de_Sofware\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+C:\Users\Katherine\OneDrive\Documents\aaDiseño y Construccion de Componentes\Gonzalez_Ortiz_Picado_Componentes_Laboratorio_Proceso_Desarrollo_de_Sofware\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Katherine\OneDrive\Documents\aaDiseño y Construccion de Componentes\Gonzalez_Ortiz_Picado_Componentes_Laboratorio_Proceso_Desarrollo_de_Sofware\DataAccess\obj\Debug\net6.0\DataAccess.csproj.Up2Date
+C:\Users\Katherine\OneDrive\Documents\aaDiseño y Construccion de Componentes\Gonzalez_Ortiz_Picado_Componentes_Laboratorio_Proceso_Desarrollo_de_Sofware\DataAccess\obj\Debug\net6.0\DataAccess.dll
+C:\Users\Katherine\OneDrive\Documents\aaDiseño y Construccion de Componentes\Gonzalez_Ortiz_Picado_Componentes_Laboratorio_Proceso_Desarrollo_de_Sofware\DataAccess\obj\Debug\net6.0\refint\DataAccess.dll
+C:\Users\Katherine\OneDrive\Documents\aaDiseño y Construccion de Componentes\Gonzalez_Ortiz_Picado_Componentes_Laboratorio_Proceso_Desarrollo_de_Sofware\DataAccess\obj\Debug\net6.0\DataAccess.pdb
+C:\Users\Katherine\OneDrive\Documents\aaDiseño y Construccion de Componentes\Gonzalez_Ortiz_Picado_Componentes_Laboratorio_Proceso_Desarrollo_de_Sofware\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll

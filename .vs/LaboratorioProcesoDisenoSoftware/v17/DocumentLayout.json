@@ -1,0 +1,313 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Katherine\\OneDrive\\Documents\\aaDise\u00F1o y Construccion de Componentes\\Gonzalez_Ortiz_Picado_Componentes_Laboratorio_Proceso_Desarrollo_de_Sofware\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{38954066-0688-47C0-BB06-C7D9F4DD0377}|WebApp\\WebApp.csproj|c:\\users\\katherine\\onedrive\\documents\\aadise\u00F1o y construccion de componentes\\gonzalez_ortiz_picado_componentes_laboratorio_proceso_desarrollo_de_sofware\\webapp\\pages\\users.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{38954066-0688-47C0-BB06-C7D9F4DD0377}|WebApp\\WebApp.csproj|solutionrelative:webapp\\pages\\users.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38954066-0688-47C0-BB06-C7D9F4DD0377}|WebApp\\WebApp.csproj|c:\\users\\katherine\\onedrive\\documents\\aadise\u00F1o y construccion de componentes\\gonzalez_ortiz_picado_componentes_laboratorio_proceso_desarrollo_de_sofware\\webapp\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{38954066-0688-47C0-BB06-C7D9F4DD0377}|WebApp\\WebApp.csproj|solutionrelative:webapp\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38954066-0688-47C0-BB06-C7D9F4DD0377}|WebApp\\WebApp.csproj|c:\\users\\katherine\\onedrive\\documents\\aadise\u00F1o y construccion de componentes\\gonzalez_ortiz_picado_componentes_laboratorio_proceso_desarrollo_de_sofware\\webapp\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{38954066-0688-47C0-BB06-C7D9F4DD0377}|WebApp\\WebApp.csproj|solutionrelative:webapp\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38954066-0688-47C0-BB06-C7D9F4DD0377}|WebApp\\WebApp.csproj|c:\\users\\katherine\\onedrive\\documents\\aadise\u00F1o y construccion de componentes\\gonzalez_ortiz_picado_componentes_laboratorio_proceso_desarrollo_de_sofware\\webapp\\pages\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{38954066-0688-47C0-BB06-C7D9F4DD0377}|WebApp\\WebApp.csproj|solutionrelative:webapp\\pages\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38954066-0688-47C0-BB06-C7D9F4DD0377}|WebApp\\WebApp.csproj|c:\\users\\katherine\\onedrive\\documents\\aadise\u00F1o y construccion de componentes\\gonzalez_ortiz_picado_componentes_laboratorio_proceso_desarrollo_de_sofware\\webapp\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{38954066-0688-47C0-BB06-C7D9F4DD0377}|WebApp\\WebApp.csproj|solutionrelative:webapp\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38954066-0688-47C0-BB06-C7D9F4DD0377}|WebApp\\WebApp.csproj|c:\\users\\katherine\\onedrive\\documents\\aadise\u00F1o y construccion de componentes\\gonzalez_ortiz_picado_componentes_laboratorio_proceso_desarrollo_de_sofware\\webapp\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{38954066-0688-47C0-BB06-C7D9F4DD0377}|WebApp\\WebApp.csproj|solutionrelative:webapp\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38954066-0688-47C0-BB06-C7D9F4DD0377}|WebApp\\WebApp.csproj|c:\\users\\katherine\\onedrive\\documents\\aadise\u00F1o y construccion de componentes\\gonzalez_ortiz_picado_componentes_laboratorio_proceso_desarrollo_de_sofware\\webapp\\wwwroot\\js\\pages\\users.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{38954066-0688-47C0-BB06-C7D9F4DD0377}|WebApp\\WebApp.csproj|solutionrelative:webapp\\wwwroot\\js\\pages\\users.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38954066-0688-47C0-BB06-C7D9F4DD0377}|WebApp\\WebApp.csproj|c:\\users\\katherine\\onedrive\\documents\\aadise\u00F1o y construccion de componentes\\gonzalez_ortiz_picado_componentes_laboratorio_proceso_desarrollo_de_sofware\\webapp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{38954066-0688-47C0-BB06-C7D9F4DD0377}|WebApp\\WebApp.csproj|solutionrelative:webapp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38954066-0688-47C0-BB06-C7D9F4DD0377}|WebApp\\WebApp.csproj|c:\\users\\katherine\\onedrive\\documents\\aadise\u00F1o y construccion de componentes\\gonzalez_ortiz_picado_componentes_laboratorio_proceso_desarrollo_de_sofware\\webapp\\wwwroot\\js\\controlactions.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{38954066-0688-47C0-BB06-C7D9F4DD0377}|WebApp\\WebApp.csproj|solutionrelative:webapp\\wwwroot\\js\\controlactions.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38954066-0688-47C0-BB06-C7D9F4DD0377}|WebApp\\WebApp.csproj|c:\\users\\katherine\\onedrive\\documents\\aadise\u00F1o y construccion de componentes\\gonzalez_ortiz_picado_componentes_laboratorio_proceso_desarrollo_de_sofware\\webapp\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{38954066-0688-47C0-BB06-C7D9F4DD0377}|WebApp\\WebApp.csproj|solutionrelative:webapp\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0BC0570-EE3B-4C24-966E-574C7E68DE75}|DataAccess\\DataAccess.csproj|c:\\users\\katherine\\onedrive\\documents\\aadise\u00F1o y construccion de componentes\\gonzalez_ortiz_picado_componentes_laboratorio_proceso_desarrollo_de_sofware\\dataaccess\\crud\\usercrudfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0BC0570-EE3B-4C24-966E-574C7E68DE75}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\crud\\usercrudfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0586368C-6A48-4989-8830-D487FF970810}|CoreApp\\CoreApp.csproj|c:\\users\\katherine\\onedrive\\documents\\aadise\u00F1o y construccion de componentes\\gonzalez_ortiz_picado_componentes_laboratorio_proceso_desarrollo_de_sofware\\coreapp\\usermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0586368C-6A48-4989-8830-D487FF970810}|CoreApp\\CoreApp.csproj|solutionrelative:coreapp\\usermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18C7DB4C-9E55-4C8E-9429-CD31F6F3FCBD}|DTOs\\DTOs.csproj|c:\\users\\katherine\\onedrive\\documents\\aadise\u00F1o y construccion de componentes\\gonzalez_ortiz_picado_componentes_laboratorio_proceso_desarrollo_de_sofware\\dtos\\basedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18C7DB4C-9E55-4C8E-9429-CD31F6F3FCBD}|DTOs\\DTOs.csproj|solutionrelative:dtos\\basedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18C7DB4C-9E55-4C8E-9429-CD31F6F3FCBD}|DTOs\\DTOs.csproj|c:\\users\\katherine\\onedrive\\documents\\aadise\u00F1o y construccion de componentes\\gonzalez_ortiz_picado_componentes_laboratorio_proceso_desarrollo_de_sofware\\dtos\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18C7DB4C-9E55-4C8E-9429-CD31F6F3FCBD}|DTOs\\DTOs.csproj|solutionrelative:dtos\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38954066-0688-47C0-BB06-C7D9F4DD0377}|WebApp\\WebApp.csproj|c:\\users\\katherine\\onedrive\\documents\\aadise\u00F1o y construccion de componentes\\gonzalez_ortiz_picado_componentes_laboratorio_proceso_desarrollo_de_sofware\\webapp\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{38954066-0688-47C0-BB06-C7D9F4DD0377}|WebApp\\WebApp.csproj|solutionrelative:webapp\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D5922CD-3181-4CB1-B1E1-B0CBE57BA229}|WebAPI\\WebAPI.csproj|c:\\users\\katherine\\onedrive\\documents\\aadise\u00F1o y construccion de componentes\\gonzalez_ortiz_picado_componentes_laboratorio_proceso_desarrollo_de_sofware\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D5922CD-3181-4CB1-B1E1-B0CBE57BA229}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 122,
+          "SelectedChildIndex": 15,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Katherine\\OneDrive\\Documents\\aaDise\u00F1o y Construccion de Componentes\\Gonzalez_Ortiz_Picado_Componentes_Laboratorio_Proceso_Desarrollo_de_Sofware\\WebApp\\Pages\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "WebApp\\Pages\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Katherine\\OneDrive\\Documents\\aaDise\u00F1o y Construccion de Componentes\\Gonzalez_Ortiz_Picado_Componentes_Laboratorio_Proceso_Desarrollo_de_Sofware\\WebApp\\Pages\\_ViewImports.cshtml",
+              "RelativeToolTip": "WebApp\\Pages\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-04T02:22:20.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Katherine\\OneDrive\\Documents\\aaDise\u00F1o y Construccion de Componentes\\Gonzalez_Ortiz_Picado_Componentes_Laboratorio_Proceso_Desarrollo_de_Sofware\\WebApp\\Pages\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "WebApp\\Pages\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Katherine\\OneDrive\\Documents\\aaDise\u00F1o y Construccion de Componentes\\Gonzalez_Ortiz_Picado_Componentes_Laboratorio_Proceso_Desarrollo_de_Sofware\\WebApp\\Pages\\_ViewStart.cshtml",
+              "RelativeToolTip": "WebApp\\Pages\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-04T02:22:18.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Katherine\\OneDrive\\Documents\\aaDise\u00F1o y Construccion de Componentes\\Gonzalez_Ortiz_Picado_Componentes_Laboratorio_Proceso_Desarrollo_de_Sofware\\WebApp\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApp\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Katherine\\OneDrive\\Documents\\aaDise\u00F1o y Construccion de Componentes\\Gonzalez_Ortiz_Picado_Componentes_Laboratorio_Proceso_Desarrollo_de_Sofware\\WebApp\\Pages\\Index.cshtml",
+              "RelativeToolTip": "WebApp\\Pages\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-04T02:20:16.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Katherine\\OneDrive\\Documents\\aaDise\u00F1o y Construccion de Componentes\\Gonzalez_Ortiz_Picado_Componentes_Laboratorio_Proceso_Desarrollo_de_Sofware\\WebApp\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "WebApp\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\Katherine\\OneDrive\\Documents\\aaDise\u00F1o y Construccion de Componentes\\Gonzalez_Ortiz_Picado_Componentes_Laboratorio_Proceso_Desarrollo_de_Sofware\\WebApp\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "WebApp\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-04T02:20:14.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Katherine\\OneDrive\\Documents\\aaDise\u00F1o y Construccion de Componentes\\Gonzalez_Ortiz_Picado_Componentes_Laboratorio_Proceso_Desarrollo_de_Sofware\\WebApp\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebApp\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Katherine\\OneDrive\\Documents\\aaDise\u00F1o y Construccion de Componentes\\Gonzalez_Ortiz_Picado_Componentes_Laboratorio_Proceso_Desarrollo_de_Sofware\\WebApp\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebApp\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-04T02:20:09.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "additional-methods.js",
+              "DocumentMoniker": "C:\\Users\\Katherine\\OneDrive\\Documents\\aaDise\u00F1o y Construccion de Componentes\\Gonzalez_Ortiz_Picado_Componentes_Laboratorio_Proceso_Desarrollo_de_Sofware\\WebApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+              "RelativeDocumentMoniker": "WebApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+              "ToolTip": "C:\\Users\\Katherine\\OneDrive\\Documents\\aaDise\u00F1o y Construccion de Componentes\\Gonzalez_Ortiz_Picado_Componentes_Laboratorio_Proceso_Desarrollo_de_Sofware\\WebApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+              "RelativeToolTip": "WebApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAADgAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-07-04T01:52:24.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Users.cshtml",
+              "DocumentMoniker": "C:\\Users\\Katherine\\OneDrive\\Documents\\aaDise\u00F1o y Construccion de Componentes\\Gonzalez_Ortiz_Picado_Componentes_Laboratorio_Proceso_Desarrollo_de_Sofware\\WebApp\\Pages\\Users.cshtml",
+              "RelativeDocumentMoniker": "WebApp\\Pages\\Users.cshtml",
+              "ToolTip": "C:\\Users\\Katherine\\OneDrive\\Documents\\aaDise\u00F1o y Construccion de Componentes\\Gonzalez_Ortiz_Picado_Componentes_Laboratorio_Proceso_Desarrollo_de_Sofware\\WebApp\\Pages\\Users.cshtml",
+              "RelativeToolTip": "WebApp\\Pages\\Users.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-04T01:42:18.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserManager.cs",
+              "DocumentMoniker": "C:\\Users\\Katherine\\OneDrive\\Documents\\aaDise\u00F1o y Construccion de Componentes\\Gonzalez_Ortiz_Picado_Componentes_Laboratorio_Proceso_Desarrollo_de_Sofware\\CoreApp\\UserManager.cs",
+              "RelativeDocumentMoniker": "CoreApp\\UserManager.cs",
+              "ToolTip": "C:\\Users\\Katherine\\OneDrive\\Documents\\aaDise\u00F1o y Construccion de Componentes\\Gonzalez_Ortiz_Picado_Componentes_Laboratorio_Proceso_Desarrollo_de_Sofware\\CoreApp\\UserManager.cs",
+              "RelativeToolTip": "CoreApp\\UserManager.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAiwCkAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T00:50:33.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BaseDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Katherine\\OneDrive\\Documents\\aaDise\u00F1o y Construccion de Componentes\\Gonzalez_Ortiz_Picado_Componentes_Laboratorio_Proceso_Desarrollo_de_Sofware\\DTOs\\BaseDTO.cs",
+              "RelativeDocumentMoniker": "DTOs\\BaseDTO.cs",
+              "ToolTip": "C:\\Users\\Katherine\\OneDrive\\Documents\\aaDise\u00F1o y Construccion de Componentes\\Gonzalez_Ortiz_Picado_Componentes_Laboratorio_Proceso_Desarrollo_de_Sofware\\DTOs\\BaseDTO.cs",
+              "RelativeToolTip": "DTOs\\BaseDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T00:49:37.123Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserCrudFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Katherine\\OneDrive\\Documents\\aaDise\u00F1o y Construccion de Componentes\\Gonzalez_Ortiz_Picado_Componentes_Laboratorio_Proceso_Desarrollo_de_Sofware\\DataAccess\\CRUD\\UserCrudFactory.cs",
+              "RelativeDocumentMoniker": "DataAccess\\CRUD\\UserCrudFactory.cs",
+              "ToolTip": "C:\\Users\\Katherine\\OneDrive\\Documents\\aaDise\u00F1o y Construccion de Componentes\\Gonzalez_Ortiz_Picado_Componentes_Laboratorio_Proceso_Desarrollo_de_Sofware\\DataAccess\\CRUD\\UserCrudFactory.cs",
+              "RelativeToolTip": "DataAccess\\CRUD\\UserCrudFactory.cs",
+              "ViewState": "AQIAAHsAAAAAAAAAAAAUwB8AAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T00:47:55.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Users.js",
+              "DocumentMoniker": "C:\\Users\\Katherine\\OneDrive\\Documents\\aaDise\u00F1o y Construccion de Componentes\\Gonzalez_Ortiz_Picado_Componentes_Laboratorio_Proceso_Desarrollo_de_Sofware\\WebApp\\wwwroot\\js\\pages\\Users.js",
+              "RelativeDocumentMoniker": "WebApp\\wwwroot\\js\\pages\\Users.js",
+              "ToolTip": "C:\\Users\\Katherine\\OneDrive\\Documents\\aaDise\u00F1o y Construccion de Componentes\\Gonzalez_Ortiz_Picado_Componentes_Laboratorio_Proceso_Desarrollo_de_Sofware\\WebApp\\wwwroot\\js\\pages\\Users.js",
+              "RelativeToolTip": "WebApp\\wwwroot\\js\\pages\\Users.js",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAswFUAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-07-03T03:54:49.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\Katherine\\OneDrive\\Documents\\aaDise\u00F1o y Construccion de Componentes\\Gonzalez_Ortiz_Picado_Componentes_Laboratorio_Proceso_Desarrollo_de_Sofware\\WebApp\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "WebApp\\wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\Katherine\\OneDrive\\Documents\\aaDise\u00F1o y Construccion de Componentes\\Gonzalez_Ortiz_Picado_Componentes_Laboratorio_Proceso_Desarrollo_de_Sofware\\WebApp\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "WebApp\\wwwroot\\js\\site.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-07-03T03:54:04.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ControlActions.js",
+              "DocumentMoniker": "C:\\Users\\Katherine\\OneDrive\\Documents\\aaDise\u00F1o y Construccion de Componentes\\Gonzalez_Ortiz_Picado_Componentes_Laboratorio_Proceso_Desarrollo_de_Sofware\\WebApp\\wwwroot\\js\\ControlActions.js",
+              "RelativeDocumentMoniker": "WebApp\\wwwroot\\js\\ControlActions.js",
+              "ToolTip": "C:\\Users\\Katherine\\OneDrive\\Documents\\aaDise\u00F1o y Construccion de Componentes\\Gonzalez_Ortiz_Picado_Componentes_Laboratorio_Proceso_Desarrollo_de_Sofware\\WebApp\\wwwroot\\js\\ControlActions.js",
+              "RelativeToolTip": "WebApp\\wwwroot\\js\\ControlActions.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-07-03T03:53:55.347Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\Katherine\\OneDrive\\Documents\\aaDise\u00F1o y Construccion de Componentes\\Gonzalez_Ortiz_Picado_Componentes_Laboratorio_Proceso_Desarrollo_de_Sofware\\WebApp\\Pages\\Error.cshtml",
+              "RelativeDocumentMoniker": "WebApp\\Pages\\Error.cshtml",
+              "ToolTip": "C:\\Users\\Katherine\\OneDrive\\Documents\\aaDise\u00F1o y Construccion de Componentes\\Gonzalez_Ortiz_Picado_Componentes_Laboratorio_Proceso_Desarrollo_de_Sofware\\WebApp\\Pages\\Error.cshtml",
+              "RelativeToolTip": "WebApp\\Pages\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-03T03:51:47.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Katherine\\OneDrive\\Documents\\aaDise\u00F1o y Construccion de Componentes\\Gonzalez_Ortiz_Picado_Componentes_Laboratorio_Proceso_Desarrollo_de_Sofware\\WebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\Katherine\\OneDrive\\Documents\\aaDise\u00F1o y Construccion de Componentes\\Gonzalez_Ortiz_Picado_Componentes_Laboratorio_Proceso_Desarrollo_de_Sofware\\WebAPI\\Program.cs",
+              "RelativeToolTip": "WebAPI\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAIBJwBQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T03:30:55.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Katherine\\OneDrive\\Documents\\aaDise\u00F1o y Construccion de Componentes\\Gonzalez_Ortiz_Picado_Componentes_Laboratorio_Proceso_Desarrollo_de_Sofware\\DTOs\\User.cs",
+              "RelativeDocumentMoniker": "DTOs\\User.cs",
+              "ToolTip": "C:\\Users\\Katherine\\OneDrive\\Documents\\aaDise\u00F1o y Construccion de Componentes\\Gonzalez_Ortiz_Picado_Componentes_Laboratorio_Proceso_Desarrollo_de_Sofware\\DTOs\\User.cs",
+              "RelativeToolTip": "DTOs\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T03:28:23.423Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,169 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Katherine\\OneDrive\\Documents\\Proyecto 2\\AssetsManageer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{38954066-0688-47C0-BB06-C7D9F4DD0377}|WebApp\\WebApp.csproj|c:\\users\\katherine\\onedrive\\documents\\proyecto 2\\assetsmanageer\\webapp\\pages\\assets.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{38954066-0688-47C0-BB06-C7D9F4DD0377}|WebApp\\WebApp.csproj|solutionrelative:webapp\\pages\\assets.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38954066-0688-47C0-BB06-C7D9F4DD0377}|WebApp\\WebApp.csproj|c:\\users\\katherine\\onedrive\\documents\\proyecto 2\\assetsmanageer\\webapp\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{38954066-0688-47C0-BB06-C7D9F4DD0377}|WebApp\\WebApp.csproj|solutionrelative:webapp\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38954066-0688-47C0-BB06-C7D9F4DD0377}|WebApp\\WebApp.csproj|c:\\users\\katherine\\onedrive\\documents\\proyecto 2\\assetsmanageer\\webapp\\wwwroot\\js\\pages\\assets.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{38954066-0688-47C0-BB06-C7D9F4DD0377}|WebApp\\WebApp.csproj|solutionrelative:webapp\\wwwroot\\js\\pages\\assets.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18C7DB4C-9E55-4C8E-9429-CD31F6F3FCBD}|DTOs\\DTOs.csproj|c:\\users\\katherine\\onedrive\\documents\\proyecto 2\\assetsmanageer\\dtos\\basedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18C7DB4C-9E55-4C8E-9429-CD31F6F3FCBD}|DTOs\\DTOs.csproj|solutionrelative:dtos\\basedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18C7DB4C-9E55-4C8E-9429-CD31F6F3FCBD}|DTOs\\DTOs.csproj|c:\\users\\katherine\\onedrive\\documents\\proyecto 2\\assetsmanageer\\dtos\\asset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18C7DB4C-9E55-4C8E-9429-CD31F6F3FCBD}|DTOs\\DTOs.csproj|solutionrelative:dtos\\asset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38954066-0688-47C0-BB06-C7D9F4DD0377}|WebApp\\WebApp.csproj|c:\\users\\katherine\\onedrive\\documents\\proyecto 2\\assetsmanageer\\webapp\\wwwroot\\js\\controlactions.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{38954066-0688-47C0-BB06-C7D9F4DD0377}|WebApp\\WebApp.csproj|solutionrelative:webapp\\wwwroot\\js\\controlactions.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0BC0570-EE3B-4C24-966E-574C7E68DE75}|DataAccess\\DataAccess.csproj|c:\\users\\katherine\\onedrive\\documents\\proyecto 2\\assetsmanageer\\dataaccess\\crud\\assetcrudfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0BC0570-EE3B-4C24-966E-574C7E68DE75}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\crud\\assetcrudfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 122,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Asset.cs",
+              "DocumentMoniker": "C:\\Users\\Katherine\\OneDrive\\Documents\\Proyecto 2\\AssetsManageer\\DTOs\\Asset.cs",
+              "RelativeDocumentMoniker": "DTOs\\Asset.cs",
+              "ToolTip": "C:\\Users\\Katherine\\OneDrive\\Documents\\Proyecto 2\\AssetsManageer\\DTOs\\Asset.cs",
+              "RelativeToolTip": "DTOs\\Asset.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T05:22:57.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Katherine\\OneDrive\\Documents\\Proyecto 2\\AssetsManageer\\WebApp\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebApp\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Katherine\\OneDrive\\Documents\\Proyecto 2\\AssetsManageer\\WebApp\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebApp\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAAAoAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-31T04:51:56.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AssetCrudFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Katherine\\OneDrive\\Documents\\Proyecto 2\\AssetsManageer\\DataAccess\\CRUD\\AssetCrudFactory.cs",
+              "RelativeDocumentMoniker": "DataAccess\\CRUD\\AssetCrudFactory.cs",
+              "ToolTip": "C:\\Users\\Katherine\\OneDrive\\Documents\\Proyecto 2\\AssetsManageer\\DataAccess\\CRUD\\AssetCrudFactory.cs",
+              "RelativeToolTip": "DataAccess\\CRUD\\AssetCrudFactory.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAiwCoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T03:37:24.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ControlActions.js",
+              "DocumentMoniker": "C:\\Users\\Katherine\\OneDrive\\Documents\\Proyecto 2\\AssetsManageer\\WebApp\\wwwroot\\js\\ControlActions.js",
+              "RelativeDocumentMoniker": "WebApp\\wwwroot\\js\\ControlActions.js",
+              "ToolTip": "C:\\Users\\Katherine\\OneDrive\\Documents\\Proyecto 2\\AssetsManageer\\WebApp\\wwwroot\\js\\ControlActions.js",
+              "RelativeToolTip": "WebApp\\wwwroot\\js\\ControlActions.js",
+              "ViewState": "AQIAAJYAAAAAAAAAAAAIwLwAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-03-31T03:35:27.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Assets.cshtml",
+              "DocumentMoniker": "C:\\Users\\Katherine\\OneDrive\\Documents\\Proyecto 2\\AssetsManageer\\WebApp\\Pages\\Assets.cshtml",
+              "RelativeDocumentMoniker": "WebApp\\Pages\\Assets.cshtml",
+              "ToolTip": "C:\\Users\\Katherine\\OneDrive\\Documents\\Proyecto 2\\AssetsManageer\\WebApp\\Pages\\Assets.cshtml",
+              "RelativeToolTip": "WebApp\\Pages\\Assets.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-31T03:25:21.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Assets.js",
+              "DocumentMoniker": "C:\\Users\\Katherine\\OneDrive\\Documents\\Proyecto 2\\AssetsManageer\\WebApp\\wwwroot\\js\\pages\\Assets.js",
+              "RelativeDocumentMoniker": "WebApp\\wwwroot\\js\\pages\\Assets.js",
+              "ToolTip": "C:\\Users\\Katherine\\OneDrive\\Documents\\Proyecto 2\\AssetsManageer\\WebApp\\wwwroot\\js\\pages\\Assets.js",
+              "RelativeToolTip": "WebApp\\wwwroot\\js\\pages\\Assets.js",
+              "ViewState": "AQIAADAAAAAAAAAAAAAQwHsAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-03-31T03:17:14.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BaseDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Katherine\\OneDrive\\Documents\\Proyecto 2\\AssetsManageer\\DTOs\\BaseDTO.cs",
+              "RelativeDocumentMoniker": "DTOs\\BaseDTO.cs",
+              "ToolTip": "C:\\Users\\Katherine\\OneDrive\\Documents\\Proyecto 2\\AssetsManageer\\DTOs\\BaseDTO.cs",
+              "RelativeToolTip": "DTOs\\BaseDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T05:23:10.742Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

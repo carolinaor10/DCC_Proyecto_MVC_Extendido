@@ -1,0 +1,146 @@
+C:\Users\Katherine\OneDrive\Documents\Proyecto 2\AssetsManageer\WebAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Katherine\OneDrive\Documents\Proyecto 2\AssetsManageer\WebAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\Katherine\OneDrive\Documents\Proyecto 2\AssetsManageer\WebAPI\bin\Debug\net6.0\WebAPI.exe
+C:\Users\Katherine\OneDrive\Documents\Proyecto 2\AssetsManageer\WebAPI\bin\Debug\net6.0\WebAPI.deps.json
+C:\Users\Katherine\OneDrive\Documents\Proyecto 2\AssetsManageer\WebAPI\bin\Debug\net6.0\WebAPI.runtimeconfig.json
+C:\Users\Katherine\OneDrive\Documents\Proyecto 2\AssetsManageer\WebAPI\bin\Debug\net6.0\WebAPI.dll
+C:\Users\Katherine\OneDrive\Documents\Proyecto 2\AssetsManageer\WebAPI\bin\Debug\net6.0\WebAPI.pdb
+C:\Users\Katherine\OneDrive\Documents\Proyecto 2\AssetsManageer\WebAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Katherine\OneDrive\Documents\Proyecto 2\AssetsManageer\WebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Katherine\OneDrive\Documents\Proyecto 2\AssetsManageer\WebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Katherine\OneDrive\Documents\Proyecto 2\AssetsManageer\WebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Katherine\OneDrive\Documents\Proyecto 2\AssetsManageer\WebAPI\obj\Debug\net6.0\WebAPI.csproj.AssemblyReference.cache
+C:\Users\Katherine\OneDrive\Documents\Proyecto 2\AssetsManageer\WebAPI\obj\Debug\net6.0\WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Katherine\OneDrive\Documents\Proyecto 2\AssetsManageer\WebAPI\obj\Debug\net6.0\WebAPI.AssemblyInfoInputs.cache
+C:\Users\Katherine\OneDrive\Documents\Proyecto 2\AssetsManageer\WebAPI\obj\Debug\net6.0\WebAPI.AssemblyInfo.cs
+C:\Users\Katherine\OneDrive\Documents\Proyecto 2\AssetsManageer\WebAPI\obj\Debug\net6.0\WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\Katherine\OneDrive\Documents\Proyecto 2\AssetsManageer\WebAPI\obj\Debug\net6.0\WebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Katherine\OneDrive\Documents\Proyecto 2\AssetsManageer\WebAPI\obj\Debug\net6.0\staticwebassets\msbuild.WebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Katherine\OneDrive\Documents\Proyecto 2\AssetsManageer\WebAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.WebAPI.props
+C:\Users\Katherine\OneDrive\Documents\Proyecto 2\AssetsManageer\WebAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebAPI.props
+C:\Users\Katherine\OneDrive\Documents\Proyecto 2\AssetsManageer\WebAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebAPI.props
+C:\Users\Katherine\OneDrive\Documents\Proyecto 2\AssetsManageer\WebAPI\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Katherine\OneDrive\Documents\Proyecto 2\AssetsManageer\WebAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Katherine\OneDrive\Documents\Proyecto 2\AssetsManageer\WebAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Katherine\OneDrive\Documents\Proyecto 2\AssetsManageer\WebAPI\obj\Debug\net6.0\scopedcss\bundle\WebAPI.styles.css
+C:\Users\Katherine\OneDrive\Documents\Proyecto 2\AssetsManageer\WebAPI\obj\Debug\net6.0\WebAPI.dll
+C:\Users\Katherine\OneDrive\Documents\Proyecto 2\AssetsManageer\WebAPI\obj\Debug\net6.0\refint\WebAPI.dll
+C:\Users\Katherine\OneDrive\Documents\Proyecto 2\AssetsManageer\WebAPI\obj\Debug\net6.0\WebAPI.pdb
+C:\Users\Katherine\OneDrive\Documents\Proyecto 2\AssetsManageer\WebAPI\obj\Debug\net6.0\WebAPI.genruntimeconfig.cache
+C:\Users\Katherine\OneDrive\Documents\Proyecto 2\AssetsManageer\WebAPI\obj\Debug\net6.0\ref\WebAPI.dll
+C:\Users\Katherine\OneDrive\Documents\Proyecto 2\AssetsManageer\WebAPI\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\Katherine\OneDrive\Documents\Proyecto 2\AssetsManageer\WebAPI\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\Katherine\OneDrive\Documents\Proyecto 2\AssetsManageer\WebAPI\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Katherine\OneDrive\Documents\Proyecto 2\AssetsManageer\WebAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Katherine\OneDrive\Documents\Proyecto 2\AssetsManageer\WebAPI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Katherine\OneDrive\Documents\Proyecto 2\AssetsManageer\WebAPI\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Katherine\OneDrive\Documents\Proyecto 2\AssetsManageer\WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Katherine\OneDrive\Documents\Proyecto 2\AssetsManageer\WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Katherine\OneDrive\Documents\Proyecto 2\AssetsManageer\WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Katherine\OneDrive\Documents\Proyecto 2\AssetsManageer\WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Katherine\OneDrive\Documents\Proyecto 2\AssetsManageer\WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Katherine\OneDrive\Documents\Proyecto 2\AssetsManageer\WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Katherine\OneDrive\Documents\Proyecto 2\AssetsManageer\WebAPI\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\Katherine\OneDrive\Documents\Proyecto 2\AssetsManageer\WebAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Katherine\OneDrive\Documents\Proyecto 2\AssetsManageer\WebAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Katherine\OneDrive\Documents\Proyecto 2\AssetsManageer\WebAPI\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Katherine\OneDrive\Documents\Proyecto 2\AssetsManageer\WebAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Katherine\OneDrive\Documents\Proyecto 2\AssetsManageer\WebAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Katherine\OneDrive\Documents\Proyecto 2\AssetsManageer\WebAPI\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\Katherine\OneDrive\Documents\Proyecto 2\AssetsManageer\WebAPI\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Katherine\OneDrive\Documents\Proyecto 2\AssetsManageer\WebAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Katherine\OneDrive\Documents\Proyecto 2\AssetsManageer\WebAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Katherine\OneDrive\Documents\Proyecto 2\AssetsManageer\WebAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Katherine\OneDrive\Documents\Proyecto 2\AssetsManageer\WebAPI\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Katherine\OneDrive\Documents\Proyecto 2\AssetsManageer\WebAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Katherine\OneDrive\Documents\Proyecto 2\AssetsManageer\WebAPI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Katherine\OneDrive\Documents\Proyecto 2\AssetsManageer\WebAPI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Katherine\OneDrive\Documents\Proyecto 2\AssetsManageer\WebAPI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Katherine\OneDrive\Documents\Proyecto 2\AssetsManageer\WebAPI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Katherine\OneDrive\Documents\Proyecto 2\AssetsManageer\WebAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Katherine\OneDrive\Documents\Proyecto 2\AssetsManageer\WebAPI\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Katherine\OneDrive\Documents\Proyecto 2\AssetsManageer\WebAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Katherine\OneDrive\Documents\Proyecto 2\AssetsManageer\WebAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Katherine\OneDrive\Documents\Proyecto 2\AssetsManageer\WebAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Katherine\OneDrive\Documents\Proyecto 2\AssetsManageer\WebAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Katherine\OneDrive\Documents\Proyecto 2\AssetsManageer\WebAPI\bin\Debug\net6.0\CoreApp.dll
+C:\Users\Katherine\OneDrive\Documents\Proyecto 2\AssetsManageer\WebAPI\bin\Debug\net6.0\DataAccess.dll
+C:\Users\Katherine\OneDrive\Documents\Proyecto 2\AssetsManageer\WebAPI\bin\Debug\net6.0\DTOs.dll
+C:\Users\Katherine\OneDrive\Documents\Proyecto 2\AssetsManageer\WebAPI\bin\Debug\net6.0\CoreApp.pdb
+C:\Users\Katherine\OneDrive\Documents\Proyecto 2\AssetsManageer\WebAPI\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\Katherine\OneDrive\Documents\Proyecto 2\AssetsManageer\WebAPI\bin\Debug\net6.0\DTOs.pdb
+C:\Users\Katherine\OneDrive\Documents\Proyecto 2\AssetsManageer\WebAPI\obj\Debug\net6.0\WebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Katherine\OneDrive\Documents\Proyecto 2\AssetsManageer\WebAPI\obj\Debug\net6.0\WebAPI.csproj.Up2Date
+C:\Users\Katherine\OneDrive\Documents\aaDiseño y Construccion de Componentes\Gonzalez_Ortiz_Picado_Componentes_Laboratorio_Proceso_Desarrollo_de_Sofware\WebAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Katherine\OneDrive\Documents\aaDiseño y Construccion de Componentes\Gonzalez_Ortiz_Picado_Componentes_Laboratorio_Proceso_Desarrollo_de_Sofware\WebAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\Katherine\OneDrive\Documents\aaDiseño y Construccion de Componentes\Gonzalez_Ortiz_Picado_Componentes_Laboratorio_Proceso_Desarrollo_de_Sofware\WebAPI\bin\Debug\net6.0\WebAPI.exe
+C:\Users\Katherine\OneDrive\Documents\aaDiseño y Construccion de Componentes\Gonzalez_Ortiz_Picado_Componentes_Laboratorio_Proceso_Desarrollo_de_Sofware\WebAPI\bin\Debug\net6.0\WebAPI.deps.json
+C:\Users\Katherine\OneDrive\Documents\aaDiseño y Construccion de Componentes\Gonzalez_Ortiz_Picado_Componentes_Laboratorio_Proceso_Desarrollo_de_Sofware\WebAPI\bin\Debug\net6.0\WebAPI.runtimeconfig.json
+C:\Users\Katherine\OneDrive\Documents\aaDiseño y Construccion de Componentes\Gonzalez_Ortiz_Picado_Componentes_Laboratorio_Proceso_Desarrollo_de_Sofware\WebAPI\bin\Debug\net6.0\WebAPI.dll
+C:\Users\Katherine\OneDrive\Documents\aaDiseño y Construccion de Componentes\Gonzalez_Ortiz_Picado_Componentes_Laboratorio_Proceso_Desarrollo_de_Sofware\WebAPI\bin\Debug\net6.0\WebAPI.pdb
+C:\Users\Katherine\OneDrive\Documents\aaDiseño y Construccion de Componentes\Gonzalez_Ortiz_Picado_Componentes_Laboratorio_Proceso_Desarrollo_de_Sofware\WebAPI\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\Katherine\OneDrive\Documents\aaDiseño y Construccion de Componentes\Gonzalez_Ortiz_Picado_Componentes_Laboratorio_Proceso_Desarrollo_de_Sofware\WebAPI\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\Katherine\OneDrive\Documents\aaDiseño y Construccion de Componentes\Gonzalez_Ortiz_Picado_Componentes_Laboratorio_Proceso_Desarrollo_de_Sofware\WebAPI\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Katherine\OneDrive\Documents\aaDiseño y Construccion de Componentes\Gonzalez_Ortiz_Picado_Componentes_Laboratorio_Proceso_Desarrollo_de_Sofware\WebAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Katherine\OneDrive\Documents\aaDiseño y Construccion de Componentes\Gonzalez_Ortiz_Picado_Componentes_Laboratorio_Proceso_Desarrollo_de_Sofware\WebAPI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Katherine\OneDrive\Documents\aaDiseño y Construccion de Componentes\Gonzalez_Ortiz_Picado_Componentes_Laboratorio_Proceso_Desarrollo_de_Sofware\WebAPI\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Katherine\OneDrive\Documents\aaDiseño y Construccion de Componentes\Gonzalez_Ortiz_Picado_Componentes_Laboratorio_Proceso_Desarrollo_de_Sofware\WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Katherine\OneDrive\Documents\aaDiseño y Construccion de Componentes\Gonzalez_Ortiz_Picado_Componentes_Laboratorio_Proceso_Desarrollo_de_Sofware\WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Katherine\OneDrive\Documents\aaDiseño y Construccion de Componentes\Gonzalez_Ortiz_Picado_Componentes_Laboratorio_Proceso_Desarrollo_de_Sofware\WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Katherine\OneDrive\Documents\aaDiseño y Construccion de Componentes\Gonzalez_Ortiz_Picado_Componentes_Laboratorio_Proceso_Desarrollo_de_Sofware\WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Katherine\OneDrive\Documents\aaDiseño y Construccion de Componentes\Gonzalez_Ortiz_Picado_Componentes_Laboratorio_Proceso_Desarrollo_de_Sofware\WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Katherine\OneDrive\Documents\aaDiseño y Construccion de Componentes\Gonzalez_Ortiz_Picado_Componentes_Laboratorio_Proceso_Desarrollo_de_Sofware\WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Katherine\OneDrive\Documents\aaDiseño y Construccion de Componentes\Gonzalez_Ortiz_Picado_Componentes_Laboratorio_Proceso_Desarrollo_de_Sofware\WebAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Katherine\OneDrive\Documents\aaDiseño y Construccion de Componentes\Gonzalez_Ortiz_Picado_Componentes_Laboratorio_Proceso_Desarrollo_de_Sofware\WebAPI\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\Katherine\OneDrive\Documents\aaDiseño y Construccion de Componentes\Gonzalez_Ortiz_Picado_Componentes_Laboratorio_Proceso_Desarrollo_de_Sofware\WebAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Katherine\OneDrive\Documents\aaDiseño y Construccion de Componentes\Gonzalez_Ortiz_Picado_Componentes_Laboratorio_Proceso_Desarrollo_de_Sofware\WebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Katherine\OneDrive\Documents\aaDiseño y Construccion de Componentes\Gonzalez_Ortiz_Picado_Componentes_Laboratorio_Proceso_Desarrollo_de_Sofware\WebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Katherine\OneDrive\Documents\aaDiseño y Construccion de Componentes\Gonzalez_Ortiz_Picado_Componentes_Laboratorio_Proceso_Desarrollo_de_Sofware\WebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Katherine\OneDrive\Documents\aaDiseño y Construccion de Componentes\Gonzalez_Ortiz_Picado_Componentes_Laboratorio_Proceso_Desarrollo_de_Sofware\WebAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Katherine\OneDrive\Documents\aaDiseño y Construccion de Componentes\Gonzalez_Ortiz_Picado_Componentes_Laboratorio_Proceso_Desarrollo_de_Sofware\WebAPI\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Katherine\OneDrive\Documents\aaDiseño y Construccion de Componentes\Gonzalez_Ortiz_Picado_Componentes_Laboratorio_Proceso_Desarrollo_de_Sofware\WebAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Katherine\OneDrive\Documents\aaDiseño y Construccion de Componentes\Gonzalez_Ortiz_Picado_Componentes_Laboratorio_Proceso_Desarrollo_de_Sofware\WebAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Katherine\OneDrive\Documents\aaDiseño y Construccion de Componentes\Gonzalez_Ortiz_Picado_Componentes_Laboratorio_Proceso_Desarrollo_de_Sofware\WebAPI\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\Katherine\OneDrive\Documents\aaDiseño y Construccion de Componentes\Gonzalez_Ortiz_Picado_Componentes_Laboratorio_Proceso_Desarrollo_de_Sofware\WebAPI\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Katherine\OneDrive\Documents\aaDiseño y Construccion de Componentes\Gonzalez_Ortiz_Picado_Componentes_Laboratorio_Proceso_Desarrollo_de_Sofware\WebAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Katherine\OneDrive\Documents\aaDiseño y Construccion de Componentes\Gonzalez_Ortiz_Picado_Componentes_Laboratorio_Proceso_Desarrollo_de_Sofware\WebAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Katherine\OneDrive\Documents\aaDiseño y Construccion de Componentes\Gonzalez_Ortiz_Picado_Componentes_Laboratorio_Proceso_Desarrollo_de_Sofware\WebAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Katherine\OneDrive\Documents\aaDiseño y Construccion de Componentes\Gonzalez_Ortiz_Picado_Componentes_Laboratorio_Proceso_Desarrollo_de_Sofware\WebAPI\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Katherine\OneDrive\Documents\aaDiseño y Construccion de Componentes\Gonzalez_Ortiz_Picado_Componentes_Laboratorio_Proceso_Desarrollo_de_Sofware\WebAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Katherine\OneDrive\Documents\aaDiseño y Construccion de Componentes\Gonzalez_Ortiz_Picado_Componentes_Laboratorio_Proceso_Desarrollo_de_Sofware\WebAPI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Katherine\OneDrive\Documents\aaDiseño y Construccion de Componentes\Gonzalez_Ortiz_Picado_Componentes_Laboratorio_Proceso_Desarrollo_de_Sofware\WebAPI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Katherine\OneDrive\Documents\aaDiseño y Construccion de Componentes\Gonzalez_Ortiz_Picado_Componentes_Laboratorio_Proceso_Desarrollo_de_Sofware\WebAPI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Katherine\OneDrive\Documents\aaDiseño y Construccion de Componentes\Gonzalez_Ortiz_Picado_Componentes_Laboratorio_Proceso_Desarrollo_de_Sofware\WebAPI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Katherine\OneDrive\Documents\aaDiseño y Construccion de Componentes\Gonzalez_Ortiz_Picado_Componentes_Laboratorio_Proceso_Desarrollo_de_Sofware\WebAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Katherine\OneDrive\Documents\aaDiseño y Construccion de Componentes\Gonzalez_Ortiz_Picado_Componentes_Laboratorio_Proceso_Desarrollo_de_Sofware\WebAPI\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Katherine\OneDrive\Documents\aaDiseño y Construccion de Componentes\Gonzalez_Ortiz_Picado_Componentes_Laboratorio_Proceso_Desarrollo_de_Sofware\WebAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Katherine\OneDrive\Documents\aaDiseño y Construccion de Componentes\Gonzalez_Ortiz_Picado_Componentes_Laboratorio_Proceso_Desarrollo_de_Sofware\WebAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Katherine\OneDrive\Documents\aaDiseño y Construccion de Componentes\Gonzalez_Ortiz_Picado_Componentes_Laboratorio_Proceso_Desarrollo_de_Sofware\WebAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Katherine\OneDrive\Documents\aaDiseño y Construccion de Componentes\Gonzalez_Ortiz_Picado_Componentes_Laboratorio_Proceso_Desarrollo_de_Sofware\WebAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Katherine\OneDrive\Documents\aaDiseño y Construccion de Componentes\Gonzalez_Ortiz_Picado_Componentes_Laboratorio_Proceso_Desarrollo_de_Sofware\WebAPI\bin\Debug\net6.0\CoreApp.dll
+C:\Users\Katherine\OneDrive\Documents\aaDiseño y Construccion de Componentes\Gonzalez_Ortiz_Picado_Componentes_Laboratorio_Proceso_Desarrollo_de_Sofware\WebAPI\bin\Debug\net6.0\DataAccess.dll
+C:\Users\Katherine\OneDrive\Documents\aaDiseño y Construccion de Componentes\Gonzalez_Ortiz_Picado_Componentes_Laboratorio_Proceso_Desarrollo_de_Sofware\WebAPI\bin\Debug\net6.0\DTOs.dll
+C:\Users\Katherine\OneDrive\Documents\aaDiseño y Construccion de Componentes\Gonzalez_Ortiz_Picado_Componentes_Laboratorio_Proceso_Desarrollo_de_Sofware\WebAPI\bin\Debug\net6.0\CoreApp.pdb
+C:\Users\Katherine\OneDrive\Documents\aaDiseño y Construccion de Componentes\Gonzalez_Ortiz_Picado_Componentes_Laboratorio_Proceso_Desarrollo_de_Sofware\WebAPI\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\Katherine\OneDrive\Documents\aaDiseño y Construccion de Componentes\Gonzalez_Ortiz_Picado_Componentes_Laboratorio_Proceso_Desarrollo_de_Sofware\WebAPI\bin\Debug\net6.0\DTOs.pdb
+C:\Users\Katherine\OneDrive\Documents\aaDiseño y Construccion de Componentes\Gonzalez_Ortiz_Picado_Componentes_Laboratorio_Proceso_Desarrollo_de_Sofware\WebAPI\obj\Debug\net6.0\WebAPI.csproj.AssemblyReference.cache
+C:\Users\Katherine\OneDrive\Documents\aaDiseño y Construccion de Componentes\Gonzalez_Ortiz_Picado_Componentes_Laboratorio_Proceso_Desarrollo_de_Sofware\WebAPI\obj\Debug\net6.0\WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Katherine\OneDrive\Documents\aaDiseño y Construccion de Componentes\Gonzalez_Ortiz_Picado_Componentes_Laboratorio_Proceso_Desarrollo_de_Sofware\WebAPI\obj\Debug\net6.0\WebAPI.AssemblyInfoInputs.cache
+C:\Users\Katherine\OneDrive\Documents\aaDiseño y Construccion de Componentes\Gonzalez_Ortiz_Picado_Componentes_Laboratorio_Proceso_Desarrollo_de_Sofware\WebAPI\obj\Debug\net6.0\WebAPI.AssemblyInfo.cs
+C:\Users\Katherine\OneDrive\Documents\aaDiseño y Construccion de Componentes\Gonzalez_Ortiz_Picado_Componentes_Laboratorio_Proceso_Desarrollo_de_Sofware\WebAPI\obj\Debug\net6.0\WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\Katherine\OneDrive\Documents\aaDiseño y Construccion de Componentes\Gonzalez_Ortiz_Picado_Componentes_Laboratorio_Proceso_Desarrollo_de_Sofware\WebAPI\obj\Debug\net6.0\WebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Katherine\OneDrive\Documents\aaDiseño y Construccion de Componentes\Gonzalez_Ortiz_Picado_Componentes_Laboratorio_Proceso_Desarrollo_de_Sofware\WebAPI\obj\Debug\net6.0\WebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Katherine\OneDrive\Documents\aaDiseño y Construccion de Componentes\Gonzalez_Ortiz_Picado_Componentes_Laboratorio_Proceso_Desarrollo_de_Sofware\WebAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Katherine\OneDrive\Documents\aaDiseño y Construccion de Componentes\Gonzalez_Ortiz_Picado_Componentes_Laboratorio_Proceso_Desarrollo_de_Sofware\WebAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Katherine\OneDrive\Documents\aaDiseño y Construccion de Componentes\Gonzalez_Ortiz_Picado_Componentes_Laboratorio_Proceso_Desarrollo_de_Sofware\WebAPI\obj\Debug\net6.0\staticwebassets\msbuild.WebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Katherine\OneDrive\Documents\aaDiseño y Construccion de Componentes\Gonzalez_Ortiz_Picado_Componentes_Laboratorio_Proceso_Desarrollo_de_Sofware\WebAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.WebAPI.props
+C:\Users\Katherine\OneDrive\Documents\aaDiseño y Construccion de Componentes\Gonzalez_Ortiz_Picado_Componentes_Laboratorio_Proceso_Desarrollo_de_Sofware\WebAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebAPI.props
+C:\Users\Katherine\OneDrive\Documents\aaDiseño y Construccion de Componentes\Gonzalez_Ortiz_Picado_Componentes_Laboratorio_Proceso_Desarrollo_de_Sofware\WebAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebAPI.props
+C:\Users\Katherine\OneDrive\Documents\aaDiseño y Construccion de Componentes\Gonzalez_Ortiz_Picado_Componentes_Laboratorio_Proceso_Desarrollo_de_Sofware\WebAPI\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Katherine\OneDrive\Documents\aaDiseño y Construccion de Componentes\Gonzalez_Ortiz_Picado_Componentes_Laboratorio_Proceso_Desarrollo_de_Sofware\WebAPI\obj\Debug\net6.0\scopedcss\bundle\WebAPI.styles.css
+C:\Users\Katherine\OneDrive\Documents\aaDiseño y Construccion de Componentes\Gonzalez_Ortiz_Picado_Componentes_Laboratorio_Proceso_Desarrollo_de_Sofware\WebAPI\obj\Debug\net6.0\WebAPI.csproj.Up2Date
+C:\Users\Katherine\OneDrive\Documents\aaDiseño y Construccion de Componentes\Gonzalez_Ortiz_Picado_Componentes_Laboratorio_Proceso_Desarrollo_de_Sofware\WebAPI\obj\Debug\net6.0\WebAPI.dll
+C:\Users\Katherine\OneDrive\Documents\aaDiseño y Construccion de Componentes\Gonzalez_Ortiz_Picado_Componentes_Laboratorio_Proceso_Desarrollo_de_Sofware\WebAPI\obj\Debug\net6.0\refint\WebAPI.dll
+C:\Users\Katherine\OneDrive\Documents\aaDiseño y Construccion de Componentes\Gonzalez_Ortiz_Picado_Componentes_Laboratorio_Proceso_Desarrollo_de_Sofware\WebAPI\obj\Debug\net6.0\WebAPI.pdb
+C:\Users\Katherine\OneDrive\Documents\aaDiseño y Construccion de Componentes\Gonzalez_Ortiz_Picado_Componentes_Laboratorio_Proceso_Desarrollo_de_Sofware\WebAPI\obj\Debug\net6.0\WebAPI.genruntimeconfig.cache
+C:\Users\Katherine\OneDrive\Documents\aaDiseño y Construccion de Componentes\Gonzalez_Ortiz_Picado_Componentes_Laboratorio_Proceso_Desarrollo_de_Sofware\WebAPI\obj\Debug\net6.0\ref\WebAPI.dll

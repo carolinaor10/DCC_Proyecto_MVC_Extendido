@@ -1,0 +1,335 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Katherine\\OneDrive\\Documents\\aaDiseño y Construccion de Componentes\\Gonzalez_Ortiz_Picado_Componentes_Laboratorio_Proceso_Desarrollo_de_Sofware\\TestConsole\\TestConsole.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Katherine\\OneDrive\\Documents\\aaDiseño y Construccion de Componentes\\Gonzalez_Ortiz_Picado_Componentes_Laboratorio_Proceso_Desarrollo_de_Sofware\\CoreApp\\CoreApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Katherine\\OneDrive\\Documents\\aaDiseño y Construccion de Componentes\\Gonzalez_Ortiz_Picado_Componentes_Laboratorio_Proceso_Desarrollo_de_Sofware\\CoreApp\\CoreApp.csproj",
+        "projectName": "CoreApp",
+        "projectPath": "C:\\Users\\Katherine\\OneDrive\\Documents\\aaDiseño y Construccion de Componentes\\Gonzalez_Ortiz_Picado_Componentes_Laboratorio_Proceso_Desarrollo_de_Sofware\\CoreApp\\CoreApp.csproj",
+        "packagesPath": "C:\\Users\\Katherine\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Katherine\\OneDrive\\Documents\\aaDiseño y Construccion de Componentes\\Gonzalez_Ortiz_Picado_Componentes_Laboratorio_Proceso_Desarrollo_de_Sofware\\CoreApp\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Katherine\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Katherine\\OneDrive\\Documents\\aaDiseño y Construccion de Componentes\\Gonzalez_Ortiz_Picado_Componentes_Laboratorio_Proceso_Desarrollo_de_Sofware\\DataAccess\\DataAccess.csproj": {
+                "projectPath": "C:\\Users\\Katherine\\OneDrive\\Documents\\aaDiseño y Construccion de Componentes\\Gonzalez_Ortiz_Picado_Componentes_Laboratorio_Proceso_Desarrollo_de_Sofware\\DataAccess\\DataAccess.csproj"
+              },
+              "C:\\Users\\Katherine\\OneDrive\\Documents\\aaDiseño y Construccion de Componentes\\Gonzalez_Ortiz_Picado_Componentes_Laboratorio_Proceso_Desarrollo_de_Sofware\\DTOs\\DTOs.csproj": {
+                "projectPath": "C:\\Users\\Katherine\\OneDrive\\Documents\\aaDiseño y Construccion de Componentes\\Gonzalez_Ortiz_Picado_Componentes_Laboratorio_Proceso_Desarrollo_de_Sofware\\DTOs\\DTOs.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.31, 6.0.31]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.31, 6.0.31]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.31, 6.0.31]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.206\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Katherine\\OneDrive\\Documents\\aaDiseño y Construccion de Componentes\\Gonzalez_Ortiz_Picado_Componentes_Laboratorio_Proceso_Desarrollo_de_Sofware\\DataAccess\\DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Katherine\\OneDrive\\Documents\\aaDiseño y Construccion de Componentes\\Gonzalez_Ortiz_Picado_Componentes_Laboratorio_Proceso_Desarrollo_de_Sofware\\DataAccess\\DataAccess.csproj",
+        "projectName": "DataAccess",
+        "projectPath": "C:\\Users\\Katherine\\OneDrive\\Documents\\aaDiseño y Construccion de Componentes\\Gonzalez_Ortiz_Picado_Componentes_Laboratorio_Proceso_Desarrollo_de_Sofware\\DataAccess\\DataAccess.csproj",
+        "packagesPath": "C:\\Users\\Katherine\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Katherine\\OneDrive\\Documents\\aaDiseño y Construccion de Componentes\\Gonzalez_Ortiz_Picado_Componentes_Laboratorio_Proceso_Desarrollo_de_Sofware\\DataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Katherine\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Katherine\\OneDrive\\Documents\\aaDiseño y Construccion de Componentes\\Gonzalez_Ortiz_Picado_Componentes_Laboratorio_Proceso_Desarrollo_de_Sofware\\DTOs\\DTOs.csproj": {
+                "projectPath": "C:\\Users\\Katherine\\OneDrive\\Documents\\aaDiseño y Construccion de Componentes\\Gonzalez_Ortiz_Picado_Componentes_Laboratorio_Proceso_Desarrollo_de_Sofware\\DTOs\\DTOs.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Data.SqlClient": {
+              "target": "Package",
+              "version": "[5.1.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.31, 6.0.31]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.31, 6.0.31]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.31, 6.0.31]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.206\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Katherine\\OneDrive\\Documents\\aaDiseño y Construccion de Componentes\\Gonzalez_Ortiz_Picado_Componentes_Laboratorio_Proceso_Desarrollo_de_Sofware\\DTOs\\DTOs.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Katherine\\OneDrive\\Documents\\aaDiseño y Construccion de Componentes\\Gonzalez_Ortiz_Picado_Componentes_Laboratorio_Proceso_Desarrollo_de_Sofware\\DTOs\\DTOs.csproj",
+        "projectName": "DTOs",
+        "projectPath": "C:\\Users\\Katherine\\OneDrive\\Documents\\aaDiseño y Construccion de Componentes\\Gonzalez_Ortiz_Picado_Componentes_Laboratorio_Proceso_Desarrollo_de_Sofware\\DTOs\\DTOs.csproj",
+        "packagesPath": "C:\\Users\\Katherine\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Katherine\\OneDrive\\Documents\\aaDiseño y Construccion de Componentes\\Gonzalez_Ortiz_Picado_Componentes_Laboratorio_Proceso_Desarrollo_de_Sofware\\DTOs\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Katherine\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.31, 6.0.31]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.31, 6.0.31]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.31, 6.0.31]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.206\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Katherine\\OneDrive\\Documents\\aaDiseño y Construccion de Componentes\\Gonzalez_Ortiz_Picado_Componentes_Laboratorio_Proceso_Desarrollo_de_Sofware\\TestConsole\\TestConsole.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Katherine\\OneDrive\\Documents\\aaDiseño y Construccion de Componentes\\Gonzalez_Ortiz_Picado_Componentes_Laboratorio_Proceso_Desarrollo_de_Sofware\\TestConsole\\TestConsole.csproj",
+        "projectName": "TestConsole",
+        "projectPath": "C:\\Users\\Katherine\\OneDrive\\Documents\\aaDiseño y Construccion de Componentes\\Gonzalez_Ortiz_Picado_Componentes_Laboratorio_Proceso_Desarrollo_de_Sofware\\TestConsole\\TestConsole.csproj",
+        "packagesPath": "C:\\Users\\Katherine\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Katherine\\OneDrive\\Documents\\aaDiseño y Construccion de Componentes\\Gonzalez_Ortiz_Picado_Componentes_Laboratorio_Proceso_Desarrollo_de_Sofware\\TestConsole\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Katherine\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Katherine\\OneDrive\\Documents\\aaDiseño y Construccion de Componentes\\Gonzalez_Ortiz_Picado_Componentes_Laboratorio_Proceso_Desarrollo_de_Sofware\\CoreApp\\CoreApp.csproj": {
+                "projectPath": "C:\\Users\\Katherine\\OneDrive\\Documents\\aaDiseño y Construccion de Componentes\\Gonzalez_Ortiz_Picado_Componentes_Laboratorio_Proceso_Desarrollo_de_Sofware\\CoreApp\\CoreApp.csproj"
+              },
+              "C:\\Users\\Katherine\\OneDrive\\Documents\\aaDiseño y Construccion de Componentes\\Gonzalez_Ortiz_Picado_Componentes_Laboratorio_Proceso_Desarrollo_de_Sofware\\DataAccess\\DataAccess.csproj": {
+                "projectPath": "C:\\Users\\Katherine\\OneDrive\\Documents\\aaDiseño y Construccion de Componentes\\Gonzalez_Ortiz_Picado_Componentes_Laboratorio_Proceso_Desarrollo_de_Sofware\\DataAccess\\DataAccess.csproj"
+              },
+              "C:\\Users\\Katherine\\OneDrive\\Documents\\aaDiseño y Construccion de Componentes\\Gonzalez_Ortiz_Picado_Componentes_Laboratorio_Proceso_Desarrollo_de_Sofware\\DTOs\\DTOs.csproj": {
+                "projectPath": "C:\\Users\\Katherine\\OneDrive\\Documents\\aaDiseño y Construccion de Componentes\\Gonzalez_Ortiz_Picado_Componentes_Laboratorio_Proceso_Desarrollo_de_Sofware\\DTOs\\DTOs.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.31, 6.0.31]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[6.0.31, 6.0.31]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.31, 6.0.31]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.31, 6.0.31]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.206\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,86 @@
+﻿@page
+@model WebApp.Pages.UsersModel
+@{
+}
+
+<script src="~/js/pages/users.js"></script>
+
+<h1>Registro de Visitas Condominio Feliz</h1>
+<div class="bs-docs-section">
+    <form>
+        <fieldset>
+            <div class="container mt-5">
+                <div class="row justify-content-center">
+                    <div class="col-md-10">
+                        <div class="card">
+                            <div class="card-header bg-primary text-white">Visitas</div>
+                            <div class="card-body">
+                                <div class="form-group">
+                                    <label for="txtId">Id</label>
+                                    <input type="text" class="form-control" id="txtId" placeholder="" required>
+                                </div>
+                                <div class="form-group">
+                                    <label for="txtCed">Cédula</label>
+                                    <input type="text" class="form-control" id="txtCed" placeholder="Ingresa la cédula" required>
+                                </div>
+                                <div class="form-group">
+                                    <label for="txtName">Nombre</label>
+                                    <input type="text" class="form-control" id="txtName" placeholder="Ingresa el nombre" required>
+                                </div>
+                                <div class="form-group">
+                                    <label for="txtLastNameOne">Primer apellido</label>
+                                    <input type="text" class="form-control" id="txtLastNameOne" placeholder="Ingresa el primer apellido" required>
+                                </div>
+                                <div class="form-group">
+                                    <label for="txtLastNameTwo">Segundo apellido</label>
+                                    <input type="text" class="form-control" id="txtLastNameTwo" placeholder="Ingresa el segundo apellido" required>
+                                </div>
+                                <div class="form-group">
+                                    <label for="txtEmail">Correo electrónico</label>
+                                    <input type="email" class="form-control" id="txtEmail" placeholder="Ingresa el correo electrónico" required>
+                                </div>
+                                <div class="form-group">
+                                    <label for="txtPhone">Teléfono</label>
+                                    <input type="text" class="form-control" id="txtPhone" placeholder="Ingresa el teléfono" required>
+                                </div>
+                                <div class="form-group">
+                                    <label for="txtNumDptl">Número Departamento</label>
+                                    <input type="text" class="form-control" id="txtNumDptl" placeholder="Ingresa el número de departamento" required>
+                                </div>
+                                <div class="form-group">
+                                    <label for="txtHour">Visita el</label>
+                                    <input type="date" class="form-control" id="txtHour" required>
+                                </div>
+                                <br />
+                                <button id="btnCreate" type="button" class="btn btn-primary">Registrar</button>
+                                <button id="btnUpdate" type="button" class="btn btn-success">Actualizar</button>
+                                <button id="btnDelete" type="button" class="btn btn-danger">Eliminar</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </fieldset>
+    </form>
+
+    <div class="row mt-4">
+        <legend>Users List</legend>
+        <div class="col-lg-12">
+            <table id="tblUsers" class="display" style="width: 100%">
+                <thead>
+                    <tr>
+                        <th>Id</th>
+                        <th>Cédula</th>
+                        <th>Nombre</th>
+                        <th>Primer Apellido</th>
+                        <th>Segundo Apellido</th>
+                        <th>Correo</th>
+                        <th>Teléfono</th>
+                        <th>Departamento Visitado</th>
+                        <th>Visita</th>
+                    </tr>
+                </thead>
+            </table>
+        </div>
+    </div>
+</div>
