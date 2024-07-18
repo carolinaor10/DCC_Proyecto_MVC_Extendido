@@ -20,3 +20,14 @@ C:\Users\Katherine\OneDrive\Documents\aaDiseño y Construccion de Componentes\Go
 C:\Users\Katherine\OneDrive\Documents\aaDiseño y Construccion de Componentes\Gonzalez_Ortiz_Picado_Componentes_Laboratorio_Proceso_Desarrollo_de_Sofware\DTOs\obj\Debug\net6.0\refint\DTOs.dll
 C:\Users\Katherine\OneDrive\Documents\aaDiseño y Construccion de Componentes\Gonzalez_Ortiz_Picado_Componentes_Laboratorio_Proceso_Desarrollo_de_Sofware\DTOs\obj\Debug\net6.0\DTOs.pdb
 C:\Users\Katherine\OneDrive\Documents\aaDiseño y Construccion de Componentes\Gonzalez_Ortiz_Picado_Componentes_Laboratorio_Proceso_Desarrollo_de_Sofware\DTOs\obj\Debug\net6.0\ref\DTOs.dll
+C:\Users\Usuario\Desktop\Componentes\proy\Gonzalez_Ortiz_Picado_Componentes_Laboratorio_Proceso_Desarrollo_de_Sofware\DTOs\bin\Debug\net6.0\DTOs.deps.json
+C:\Users\Usuario\Desktop\Componentes\proy\Gonzalez_Ortiz_Picado_Componentes_Laboratorio_Proceso_Desarrollo_de_Sofware\DTOs\bin\Debug\net6.0\DTOs.dll
+C:\Users\Usuario\Desktop\Componentes\proy\Gonzalez_Ortiz_Picado_Componentes_Laboratorio_Proceso_Desarrollo_de_Sofware\DTOs\bin\Debug\net6.0\DTOs.pdb
+C:\Users\Usuario\Desktop\Componentes\proy\Gonzalez_Ortiz_Picado_Componentes_Laboratorio_Proceso_Desarrollo_de_Sofware\DTOs\obj\Debug\net6.0\DTOs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Componentes\proy\Gonzalez_Ortiz_Picado_Componentes_Laboratorio_Proceso_Desarrollo_de_Sofware\DTOs\obj\Debug\net6.0\DTOs.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Componentes\proy\Gonzalez_Ortiz_Picado_Componentes_Laboratorio_Proceso_Desarrollo_de_Sofware\DTOs\obj\Debug\net6.0\DTOs.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Componentes\proy\Gonzalez_Ortiz_Picado_Componentes_Laboratorio_Proceso_Desarrollo_de_Sofware\DTOs\obj\Debug\net6.0\DTOs.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Componentes\proy\Gonzalez_Ortiz_Picado_Componentes_Laboratorio_Proceso_Desarrollo_de_Sofware\DTOs\obj\Debug\net6.0\DTOs.dll
+C:\Users\Usuario\Desktop\Componentes\proy\Gonzalez_Ortiz_Picado_Componentes_Laboratorio_Proceso_Desarrollo_de_Sofware\DTOs\obj\Debug\net6.0\refint\DTOs.dll
+C:\Users\Usuario\Desktop\Componentes\proy\Gonzalez_Ortiz_Picado_Componentes_Laboratorio_Proceso_Desarrollo_de_Sofware\DTOs\obj\Debug\net6.0\DTOs.pdb
+C:\Users\Usuario\Desktop\Componentes\proy\Gonzalez_Ortiz_Picado_Componentes_Laboratorio_Proceso_Desarrollo_de_Sofware\DTOs\obj\Debug\net6.0\ref\DTOs.dll
