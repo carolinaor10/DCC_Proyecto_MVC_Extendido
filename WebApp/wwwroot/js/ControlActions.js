@@ -1,209 +1,282 @@
-﻿
-function ControlActions() {
-	//Ruta base del API
-	this.URL_API = "https://localhost:7081/api/";
+﻿function ControlActions() {
+    // Ruta base del API
+    this.URL_API = "https://localhost:7081/api/";
+    this.ApiService = "User";
 
-	this.GetUrlApiService = function (service) {
-		return this.URL_API + service;
-	}
+    this.ApiService = "User"; 
 
-	this.GetTableColumsDataName = function (tableId) {
-		var val = $('#' + tableId).attr("ColumnsDataName");
+    this.GetUrlApiService = function (service) {
+        return this.URL_API + service;
+    };
 
-		return val;
-	}
+    this.LoadTable = function () {
+        var self = this; // Guardar referencia al contexto actual
 
-	this.FillTable = function (service, tableId, refresh) {
+        var ca = new ControlActions();
+        var urlService = ca.GetUrlApiService(self.ApiService + "/RetrieveAll");
 
-		if (!refresh) {
-			columns = this.GetTableColumsDataName(tableId).split(',');
-			var arrayColumnsData = [];
+        var columns = [
+            { data: 'id' },
+            { data: 'identity' },
+            { data: 'name' },
+            { data: 'lastName1' },
+            { data: 'lastName2' },
+            { data: 'email' },
+            { data: 'phoneNumber' },
+            { data: 'numDpt' },
+            { data: 'hour' },
+            { data: 'role' },
+            { data: 'password' }
+        ];
 
+        // Inicialización de DataTable
+        $("#tblUsers").DataTable({
+            ajax: {
+                url: urlService,
+                dataSrc: ""
+            },
+            columns: columns
+        });
 
-			$.each(columns, function (index, value) {
-				var obj = {};
-				obj.data = value;
-				arrayColumnsData.push(obj);
-			});
-			//Esto es la inicializacion de la tabla de data tables segun la documentacion de 
-			// datatables.net, carga la data usando un request async al API
-			$('#' + tableId).DataTable({
-				"processing": true,
-				"ajax": {
-					"url": this.GetUrlApiService(service),
-					dataSrc: ''
-				},
-				"columns": arrayColumnsData
-			});
-		} else {
-			//RECARGA LA TABLA
-			$('#' + tableId).DataTable().ajax.reload();
-		}
+        // Asignación de evento al clic de la fila de la tabla
+        $('#tblUsers tbody').on('click', 'tr', function () {
+            var row = $(this).closest('tr');
+            var user = $('#tblUsers').DataTable().row(row).data();
 
-	}
+            // Asignar valores a los campos del formulario
+            $("#txtId").val(user.id);
+            $("#txtCed").val(user.identity);
+            $("#txtName").val(user.name);
+            $("#txtLastNameOne").val(user.lastName1);
+            $("#txtLastNameTwo").val(user.lastName2);
+            $("#txtEmail").val(user.email);
+            $("#txtPhone").val(user.phoneNumber);
+            $("#txtNumDptl").val(user.numDpt);
+            $("#txtHour").val(user.hour);
+            $("#selectRole").val(user.role);
+            $("#txtPassword").val(user.password);
+        });
+    };
 
-	this.GetSelectedRow = function () {
-		var data = sessionStorage.getItem(tableId + '_selected');
+    this.GetUrlApiService = function (service) {
+        return this.URL_API + service;
+    };
 
-		return data;
-	};
+    this.GetTableColumsDataName = function (tableId) {
+        var val = $('#' + tableId).attr("ColumnsDataName");
+        return val;
+    };
 
-	this.BindFields = function (formId, data) {
-		console.log(data);
-		$('#' + formId + ' *').filter(':input').each(function (input) {
-			var columnDataName = $(this).attr("ColumnDataName");
-			this.value = data[columnDataName];
-		});
-	}
+    this.FillTable = function (service, tableId, refresh) {
+        if (!refresh) {
+            var columns = this.GetTableColumsDataName(tableId).split(',');
+            var arrayColumnsData = columns.map(function (value) {
+                return { data: value };
+            });
 
-	this.GetDataForm = function (formId) {
-		var data = {};
+            // Inicialización de DataTable
+            $('#' + tableId).DataTable({
+                "processing": true,
+                "ajax": {
+                    "url": this.GetUrlApiService(service),
+                    "dataSrc": ''
+                },
+                "columns": arrayColumnsData
+            });
+        } else {
+            // Recargar la tabla
+            $('#' + tableId).DataTable().ajax.reload();
+        }
+    };
 
-		$('#' + formId + ' *').filter(':input').each(function (input) {
-			var columnDataName = $(this).attr("ColumnDataName");
-			data[columnDataName] = this.value;
-		});
+    this.GetSelectedRow = function (tableId) {
+        var data = sessionStorage.getItem(tableId + '_selected');
+        return data;
+    };
 
-		console.log(data);
-		return data;
-	}
+    this.BindFields = function (formId, data) {
+        console.log(data);
+        $('#' + formId + ' *').filter(':input').each(function () {
+            var columnDataName = $(this).attr("ColumnDataName");
+            this.value = data[columnDataName];
+        });
+    };
 
+    this.GetDataForm = function (formId) {
+        var data = {};
+        $('#' + formId + ' *').filter(':input').each(function () {
+            var columnDataName = $(this).attr("ColumnDataName");
+            data[columnDataName] = this.value;
+        });
+        console.log(data);
+        return data;
+    };
 
-	/* ACCIONES VIA AJAX, O ACCIONES ASINCRONAS*/
+    /* ACCIONES VIA AJAX, O ACCIONES ASINCRONAS */
 
-	this.PostToAPI = function (service, data, callBackFunction) {
+    this.PostToAPI = function (service, data, callBackFunction) {
+        $.ajax({
+            type: "POST",
+            url: this.GetUrlApiService(service),
+            data: JSON.stringify(data),
+            contentType: "application/json; charset=utf-8",
+            dataType: "json",
+            success: function (data) {
+                if (callBackFunction) {
+                    Swal.fire(
+                        'Good job!',
+                        'Transaction completed!',
+                        'success'
+                    );
+                    callBackFunction(data);
+                }
+            },
+            error: function (jqXHR, textStatus, errorThrown) {
+                var responseJson = jqXHR.responseJSON;
+                var message = jqXHR.responseText;
 
-		$.ajax({
-			type: "POST",
-			url: this.GetUrlApiService(service),
-			data: JSON.stringify(data),
-			contentType: "application/json; charset=utf-8",
-			dataType: "json",
-			success: function (data) {
-				if (callBackFunction) {
-					Swal.fire(
-						'Good job!',
-						'Transaction completed!',
-						'success'
-					)
-					callBackFunction(data);
-				}
-			},
-			error: function (jqXHR, textStatus, errorThrown) {
+                if (responseJson) {
+                    var errors = responseJson.errors;
+                    var errorMessages = Object.values(errors).flat();
+                    message = errorMessages.join("<br/> ");
+                }
+                Swal.fire({
+                    icon: 'error',
+                    title: 'Oops...',
+                    html: message,
+                    footer: 'UCenfotec'
+                });
+            }
+        });
+    };
 
-				var responseJson = jqXHR.responseJSON;
-				var message = jqXHR.responseText;
+    this.PutToAPI = function (service, data, callBackFunction) {
+        $.ajax({
+            type: "PUT",
+            url: this.GetUrlApiService(service),
+            data: JSON.stringify(data),
+            contentType: "application/json; charset=utf-8",
+            dataType: "json",
+            success: function (response) {
+                Swal.fire(
+                    'Good job!',
+                    'Transaction completed!',
+                    'success'
+                );
+                if (callBackFunction) {
+                    callBackFunction(response);
+                }
+            },
+            error: function (jqXHR, textStatus, errorThrown) {
+                var responseJson = jqXHR.responseJSON;
+                var message = jqXHR.responseText;
 
-				if (responseJson) {
-					var errors = responseJson.errors;
-					var errorMessages = Object.values(errors).flat();
-					message = errorMessages.join("<br/> ");
-				}
-				Swal.fire({
-					icon: 'error',
-					title: 'Oops...',
-					html: message,
-					footer: 'UCenfotec'
-				})
-			}
-		});
-	};
+                if (responseJson) {
+                    var errors = responseJson.errors;
+                    var errorMessages = Object.values(errors).flat();
+                    message = errorMessages.join("<br/> ");
+                }
+                Swal.fire({
+                    icon: 'error',
+                    title: 'Oops...',
+                    html: message,
+                    footer: 'UCenfotec'
+                });
+            }
+        });
+    };
 
+    this.DeleteToAPI = function (service, data, callBackFunction) {
+        $.ajax({
+            type: "DELETE",
+            url: this.GetUrlApiService(service),
+            data: JSON.stringify(data),
+            contentType: "application/json; charset=utf-8",
+            dataType: "json",
+            success: function (response) {
+                Swal.fire(
+                    'Good job!',
+                    'Transaction completed!',
+                    'success'
+                );
+                if (callBackFunction) {
+                    callBackFunction(response);
+                }
+            },
+            error: function (jqXHR, textStatus, errorThrown) {
+                var responseJson = jqXHR.responseJSON;
+                var message = jqXHR.responseText;
 
-	this.PutToAPI = function (service, data, callBackFunction) {
-		var jqxhr = $.put(this.GetUrlApiService(service), data, function (response) {
-			var ctrlActions = new ControlActions();
+                if (responseJson) {
+                    var errors = responseJson.errors;
+                    var errorMessages = Object.values(errors).flat();
+                    message = errorMessages.join("<br/> ");
+                }
+                Swal.fire({
+                    icon: 'error',
+                    title: 'Oops...',
+                    html: message,
+                    footer: 'UCenfotec'
+                });
+            }
+        });
+    };
 
-			Swal.fire(
-				'Good job!',
-				'Transaction completed!',
-				'success'
-			)
+    this.GetToApi = function (service, callBackFunction) {
+        $.ajax({
+            type: "GET",
+            url: this.GetUrlApiService(service),
+            success: function (response) {
+                console.log("Response " + response);
+                if (callBackFunction) {
+                    callBackFunction(response);
+                }
+            },
+            error: function (jqXHR, textStatus, errorThrown) {
+                var responseJson = jqXHR.responseJSON;
+                var message = jqXHR.responseText;
 
-			if (callBackFunction) {
-				callBackFunction(response);
-			}
-
-		})
-			.fail(function (response) {
-				var data = response.responseJSON;
-				var errors = data.errors;
-				var errorMessages = Object.values(errors).flat();
-				message = errorMessages.join("<br/> ");
-				Swal.fire({
-					icon: 'error',
-					title: 'Oops...',
-					html: message,
-					footer: 'UCenfotec'
-				})
-			})
-	};
-
-	this.DeleteToAPI = function (service, data, callBackFunction) {
-		var jqxhr = $.delete(this.GetUrlApiService(service), data, function (response) {
-			var ctrlActions = new ControlActions();
-			Swal.fire(
-				'Good job!',
-				'Transaction completed!',
-				'success'
-			)
-
-			if (callBackFunction) {
-				callBackFunction(response);
-			}
-		})
-			.fail(function (response) {
-				var data = response.responseJSON;
-				var errors = data.errors;
-				var errorMessages = Object.values(errors).flat();
-				message = errorMessages.join("<br/> ");
-				Swal.fire({
-					icon: 'error',
-					title: 'Oops...',
-					html: message,
-					footer: 'UCenfotec'
-				})
-			})
-	};
-
-	this.GetToApi = function (service, callBackFunction) {
-		var jqxhr = $.get(this.GetUrlApiService(service), function (response) {
-			console.log("Response " + response);
-			if (callBackFunction) {
-				callBackFunction(response);
-			}
-
-		});
-	}
+                if (responseJson) {
+                    var errors = responseJson.errors;
+                    var errorMessages = Object.values(errors).flat();
+                    message = errorMessages.join("<br/> ");
+                }
+                Swal.fire({
+                    icon: 'error',
+                    title: 'Oops...',
+                    html: message,
+                    footer: 'UCenfotec'
+                });
+            }
+        });
+    };
 }
 
-//Custom jquery actions
+// Custom jQuery actions
 $.put = function (url, data, callback) {
-	if ($.isFunction(data)) {
-		type = type || callback,
-			callback = data,
-			data = {}
-	}
-	return $.ajax({
-		url: url,
-		type: 'PUT',
-		success: callback,
-		data: JSON.stringify(data),
-		contentType: 'application/json'
-	});
-}
+    if ($.isFunction(data)) {
+        callback = data;
+        data = {};
+    }
+    return $.ajax({
+        url: url,
+        type: 'PUT',
+        success: callback,
+        data: JSON.stringify(data),
+        contentType: 'application/json'
+    });
+};
 
 $.delete = function (url, data, callback) {
-	if ($.isFunction(data)) {
-		type = type || callback,
-			callback = data,
-			data = {}
-	}
-	return $.ajax({
-		url: url,
-		type: 'DELETE',
-		success: callback,
-		data: JSON.stringify(data),
-		contentType: 'application/json'
-	});
-}
+    if ($.isFunction(data)) {
+        callback = data;
+        data = {};
+    }
+    return $.ajax({
+        url: url,
+        type: 'DELETE',
+        success: callback,
+        data: JSON.stringify(data),
+        contentType: 'application/json'
+    });
+};

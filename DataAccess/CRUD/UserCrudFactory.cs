@@ -11,7 +11,7 @@ namespace DataAccess.CRUD
 {
     public class UserCrudFactory : CrudFactory
     {
-  
+
         public UserCrudFactory()
         {
             _dao = SqlDao.GetInstance();
@@ -31,7 +31,8 @@ namespace DataAccess.CRUD
             sqlOperation.AddVarcharParam("P_CORREO", user.Email);
             sqlOperation.AddIntParam("P_NUM_DPT_VISITADO", user.NumDpt);
             sqlOperation.AddDateTimeParam("P_HORA_ENTRADA", user.Hour);
-            sqlOperation.AddDateTimeParam("P_ROL", user.Role);
+            sqlOperation.AddVarcharParam("P_ROL", user.Role);
+            sqlOperation.AddVarcharParam("P_CONTRASENNA", user.Password);
             _dao.ExecuteProcedure(sqlOperation);
         }
 
@@ -65,7 +66,6 @@ namespace DataAccess.CRUD
                     userList.Add((T)Convert.ChangeType(user, typeof(T)));
                 }
             }
-
             return userList;
         }
 
@@ -91,7 +91,6 @@ namespace DataAccess.CRUD
         }
 
 
-
         public User RetrieveByEmail(User u)
         {
             var sqlOperation = new SqlOperation() { ProcedureName = "RET_CONDO_USER_BY_EMAIL_PR" };
@@ -112,42 +111,47 @@ namespace DataAccess.CRUD
 
             return null;
         }
+        
 
-    
 
-    public override void Update(BaseDTO baseDTO)
-    {
-        var user = baseDTO as User;
-        var sqlOperation = new SqlOperation { ProcedureName = "UPD_CONDO_USER_PR" };
-        sqlOperation.AddIntParam("P_USER_ID", user.Id);
-        sqlOperation.AddVarcharParam("P_CEDULA", user.Identity);
-        sqlOperation.AddVarcharParam("P_NOMBRE", user.Name);
-        sqlOperation.AddVarcharParam("P_PRIMER_APELLIDO", user.LastName1);
-        sqlOperation.AddVarcharParam("P_SEGUNDO_APELLIDO", user.LastName2);
-        sqlOperation.AddVarcharParam("P_TELEFONO", user.PhoneNumber);
-        sqlOperation.AddVarcharParam("P_CORREO", user.Email);
-        sqlOperation.AddIntParam("P_NUM_DPT_VISITADO", user.NumDpt);
-        sqlOperation.AddDateTimeParam("P_HORA_ENTRADA", user.Hour);
-        sqlOperation.AddDateTimeParam("P_ROL", user.Role);
-        _dao.ExecuteProcedure(sqlOperation);
-    }
-
-    private User BuildUser(Dictionary<string, object> row)
-    {
-        var userToRetun = new User()
+        public override void Update(BaseDTO baseDTO)
         {
-            Id = (int)row["ID"],
-            Identity = (string)row["Cedula"],
-            Name = (string)row["Nombre"],
-            LastName1 = (string)row["Primer_Apellido"],
-            LastName2 = (string)row["Segundo_Apellido"],
-            PhoneNumber = (string)row["Telefono"],
-            Email = (string)row["Correo"],           
-            NumDpt = (int)row["Num_Dpt_Visitado"],
-            Hour = (DateTime)row["Hora_Entrada"],
-            Role = (string)row["Rol"]
-        };
-        return userToRetun;
+            var user = baseDTO as User;
+            var sqlOperation = new SqlOperation { ProcedureName = "UPD_CONDO_USER_PR" };
+            sqlOperation.AddIntParam("P_USER_ID", user.Id);
+            sqlOperation.AddVarcharParam("P_CEDULA", user.Identity);
+            sqlOperation.AddVarcharParam("P_NOMBRE", user.Name);
+            sqlOperation.AddVarcharParam("P_PRIMER_APELLIDO", user.LastName1);
+            sqlOperation.AddVarcharParam("P_SEGUNDO_APELLIDO", user.LastName2);
+            sqlOperation.AddVarcharParam("P_TELEFONO", user.PhoneNumber);
+            sqlOperation.AddVarcharParam("P_CORREO", user.Email);
+            sqlOperation.AddIntParam("P_NUM_DPT_VISITADO", user.NumDpt);
+            sqlOperation.AddDateTimeParam("P_HORA_ENTRADA", user.Hour);
+            sqlOperation.AddVarcharParam("P_ROL", user.Role);
+            sqlOperation.AddVarcharParam("P_CONTRASENNA", user.Password);
+            _dao.ExecuteProcedure(sqlOperation);
         }
-    }
-}
+
+        
+       private User BuildUser(Dictionary<string, object> row)
+       {
+            var userToReturn = new User()
+           {
+               Id = (int)row["ID"],
+               Identity = (string)row["Cedula"],
+               Name = (string)row["Nombre"],
+               LastName1 = (string)row["Primer_Apellido"],
+               LastName2 = (string)row["Segundo_Apellido"],
+               PhoneNumber = (string)row["Telefono"],
+               Email = (string)row["Correo"],           
+               NumDpt = (int)row["Num_Dpt_Visitado"],
+               Hour = (DateTime)row["Hora_Entrada"],
+               Role = (string)row["Rol"],
+               Password = (string)row["Contrasenna"]
+           };
+           return userToReturn;
+           }
+       }
+       
+ }
+
