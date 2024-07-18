@@ -16,6 +16,7 @@ function UserController() {
             vc.Create();
         })
 
+
         $("#btnUpdate").click(function () {
             var vc = new UserController();
             vc.Update();
@@ -41,6 +42,7 @@ function UserController() {
         user.phoneNumber = $("#txtPhone").val();
         user.numDpt = $("#txtNumDptl").val();
         user.hour = $("#txtHour").val();
+        user.role = $("#selectRole").val();
 
         //invocar al API
         var ca = new ControlActions();
@@ -63,6 +65,7 @@ function UserController() {
         user.phoneNumber = $("#txtPhone").val();
         user.numDpt = $("#txtNumDptl").val();
         user.hour = $("#txtHour").val();
+        user.role = $("#selectRole").val();
         
 
         // Invocar al API
@@ -87,6 +90,7 @@ function UserController() {
         user.phoneNumber = "phoneNumber";
         user.numDpt = 12;
         user.hour = new Date().toISOString();
+        user.hour = "role";
 
         // Invocar al API
         var ca = new ControlActions();
@@ -117,6 +121,7 @@ function UserController() {
         columns[6] = { 'data': 'phoneNumber' }
         columns[7] = { 'data': 'numDpt' }
         columns[8] = { 'data': 'hour' }
+        columns[9] = { 'data': 'role' }
 
         //inicializar la tabla como un data table
         $("#tblUsers").dataTable({
@@ -146,14 +151,18 @@ function UserController() {
             $("#txtPhone").val(user.phoneNumber);
             $("#txtNumDptl").val(user.numDpt);
             $("#txtHour").val(user.hour);
+            $("#selectRole").val(user.role);
 
           //  $('btnCreate').prop('disable', true);
         });
     }
 }
 
+
+
 //instanciamiento de la clase
 $(document).ready(function () {
     var vc = new UserController();
     vc.InitView();
 })
+
