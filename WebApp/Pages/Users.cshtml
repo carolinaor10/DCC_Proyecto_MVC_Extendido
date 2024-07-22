@@ -51,6 +51,19 @@
                                     <label for="txtHour">Visita el</label>
                                     <input type="date" class="form-control" id="txtHour" required>
                                 </div>
+                                <div class="form-group">
+                                    <label for="selectRole">Rol</label>
+                                    <select class="form-control" id="selectRole" required>
+                                        <option value="" disabled selected>Selecciona el rol</option>
+                                        <option value="Empleado">Empleado</option>
+                                        <option value="Comerciante">Comerciante</option>
+                                        <option value="Particular">Particular</option>
+                                    </select>
+                                </div>
+                                <div class="form-group">
+                                    <label for="txtPassword" class="form-label mt-4">Contraseña</label>
+                                    <input type="password" class="form-control" id="txtPassword" placeholder="Ingresa tu futura contraseña" required>
+                                </div>
                                 <br />
                                 <button id="btnCreate" type="button" class="btn btn-primary">Registrar</button>
                                 <button id="btnUpdate" type="button" class="btn btn-success">Actualizar</button>

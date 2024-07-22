@@ -31,6 +31,8 @@ namespace DataAccess.CRUD
             sqlOperation.AddVarcharParam("P_CORREO", user.Email);
             sqlOperation.AddIntParam("P_NUM_DPT_VISITADO", user.NumDpt);
             sqlOperation.AddDateTimeParam("P_HORA_ENTRADA", user.Hour);
+            sqlOperation.AddVarcharParam("P_ROL", user.Role);
+            sqlOperation.AddVarcharParam("P_CONTRASENNA", user.Password);
             _dao.ExecuteProcedure(sqlOperation);
         }
 
@@ -127,6 +129,8 @@ namespace DataAccess.CRUD
         sqlOperation.AddVarcharParam("P_CORREO", user.Email);
         sqlOperation.AddIntParam("P_NUM_DPT_VISITADO", user.NumDpt);
         sqlOperation.AddDateTimeParam("P_HORA_ENTRADA", user.Hour);
+        sqlOperation.AddVarcharParam("P_ROL", user.Role);
+        sqlOperation.AddVarcharParam("P_CONTRASENNA", user.Password);
         _dao.ExecuteProcedure(sqlOperation);
     }
 
@@ -142,7 +146,9 @@ namespace DataAccess.CRUD
             PhoneNumber = (string)row["Telefono"],
             Email = (string)row["Correo"],           
             NumDpt = (int)row["Num_Dpt_Visitado"],
-            Hour = (DateTime)row["Hora_Entrada"]
+            Hour = (DateTime)row["Hora_Entrada"],
+            Role = (string)row["Rol"],
+            Password = (string)row["Contrasenna"]
         };
         return userToRetun;
         }

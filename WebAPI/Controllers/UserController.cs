@@ -61,6 +61,23 @@ namespace WebAPI.Controllers
              }
          }
 
+        [HttpGet]
+        [Route("RetrieveByEmail2/{email}")]
+        public IActionResult RetrieveByEmail2(string email)
+        {
+            try
+            {
+                var um = new UserManager();
+                var user = new User { Email = email };
+
+                return Ok(um.RetrieveUserByEmail(user));
+            }
+            catch (Exception ex)
+            {
+                return StatusCode(500, ex.Message);
+            }
+        }
+
         [HttpPost]
         [Route("Create")]
         public ActionResult Create(User user)
@@ -111,6 +128,53 @@ namespace WebAPI.Controllers
 
             {
                 return StatusCode(500, ex.Message);
+            }
+        }
+
+        [HttpPost]
+        [Route("LogIn")]
+        public async Task<IActionResult> LogIn(User request)
+        {
+
+            string email = request.Email;
+            string password = request.Password;
+
+
+            try
+            {
+                var um = new UserManager();
+                var user = new User { Email = email };
+                User user1 = (User)um.RetrieveUserByEmail(user);
+
+
+                if (VerifyPassword(password, user1))
+                {
+
+                    return Ok(user1);
+                }
+                else
+                {
+                    return StatusCode(500, "Wrong Password or User not validated");
+                }
+            }
+
+            catch (Exception ex)
+            {
+                return StatusCode(500, ex.Message);
+            }
+        }
+
+        private bool VerifyPassword(string password, User user)
+        {
+            var userPassword = user.Password;
+
+            if (password == userPassword)
+            {
+                return true;
+            }
+            else
+            {
+                return false;
             }
         }
     }

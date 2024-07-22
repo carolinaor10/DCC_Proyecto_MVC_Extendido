@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "q2PxpPz1UZtsOaZRCBd5aPu6Hceia/oqBysK0fj7nN4=",
+  "Hash": "Mc14eHWOvSkzYwCW9nSDUYRqvtAcRaY+9j4sFr2qK2g=",
   "Source": "WebApp",
   "BasePath": "_content/WebApp",
   "Mode": "Default",
@@ -100,6 +100,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\ControlActions.js"
+    },
+    {
+      "Identity": "C:\\Users\\Usuario\\Desktop\\Componentes\\proy\\Gonzalez_Ortiz_Picado_Componentes_Laboratorio_Proceso_Desarrollo_de_Sofware\\WebApp\\wwwroot\\js\\pages\\logIn.js",
+      "SourceId": "WebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Usuario\\Desktop\\Componentes\\proy\\Gonzalez_Ortiz_Picado_Componentes_Laboratorio_Proceso_Desarrollo_de_Sofware\\WebApp\\wwwroot\\",
+      "BasePath": "_content/WebApp",
+      "RelativePath": "js/pages/logIn.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\pages\\logIn.js"
     },
     {
       "Identity": "C:\\Users\\Usuario\\Desktop\\Componentes\\proy\\Gonzalez_Ortiz_Picado_Componentes_Laboratorio_Proceso_Desarrollo_de_Sofware\\WebApp\\wwwroot\\js\\pages\\Users.js",
