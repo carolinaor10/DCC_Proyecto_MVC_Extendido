@@ -4,126 +4,144 @@ function UserController() {
     this.ApiService = "User";
 
     this.InitView = function () {
-        var self = this; // Guardar referencia al contexto actual
 
         console.log("User view init!!");
 
         // Asignación de eventos a botones
         $("#btnCreate").click(function () {
-            self.Create();
-        });
+            var vc = new UserController();
+            vc.Create();
+        })
 
         $("#btnUpdate").click(function () {
-            self.Update();
-        });
+            var vc = new UserController();
+            vc.Update();
+        })
 
         $("#btnDelete").click(function () {
-            self.Delete();
-        });
+            var vc = new UserController();
+            vc.Delete();
+        })
 
         // Carga inicial de la tabla
-        self.LoadTable();
+        this.LoadTable();
     };
 
     this.Create = function () {
-        var user = {
-            identity: $("#txtCed").val(),
-            name: $("#txtName").val(),
-            lastName1: $("#txtLastNameOne").val(),
-            lastName2: $("#txtLastNameTwo").val(),
-            email: $("#txtEmail").val(),
-            phoneNumber: $("#txtPhone").val(),
-            numDpt: $("#txtNumDptl").val(),
-            hour: $("#txtHour").val(),
-            role: $("#selectRole").val(),
-            password: $("#txtPassword").val()
-        };
+        //Crear un DTO de user
+        var user = {};
+        user.identity = $("#txtCed").val();
+        user.name = $("#txtName").val();
+        user.lastName1 = $("#txtLastNameOne").val();
+        user.lastName2 = $("#txtLastNameTwo").val();
+        user.email = $("#txtEmail").val();
+        user.phoneNumber = $("#txtPhone").val();
+        user.numDpt = $("#txtNumDptl").val();
+        user.hour = $("#txtHour").val();
+        user.role = $("#selectRole").val(),
+        user.password = $("#txtPassword").val()
+        
 
+        //invocar al API
         var ca = new ControlActions();
         var serviceRoute = this.ApiService + "/Create";
 
         ca.PostToAPI(serviceRoute, user, function () {
             console.log("User created -->" + JSON.stringify(user));
             // Recargar la tabla después de crear un usuario
-            self.LoadTable();
+            this.LoadTable();
         });
     };
 
     this.Update = function () {
-        var user = {
-            id: $("#txtId").val(),
-            identity: $("#txtCed").val(),
-            name: $("#txtName").val(),
-            lastName1: $("#txtLastNameOne").val(),
-            lastName2: $("#txtLastNameTwo").val(),
-            email: $("#txtEmail").val(),
-            phoneNumber: $("#txtPhone").val(),
-            numDpt: $("#txtNumDptl").val(),
-            hour: $("#txtHour").val(),
-            role: $("#selectRole").val(),
-            password: $("#txtPassword").val()
-        };
+        var user = {};
+        user.identity = $("#txtCed").val();
+        user.name = $("#txtName").val();
+        user.lastName1 = $("#txtLastNameOne").val();
+        user.lastName2 = $("#txtLastNameTwo").val();
+        user.email = $("#txtEmail").val();
+        user.phoneNumber = $("#txtPhone").val();
+        user.numDpt = $("#txtNumDptl").val();
+        user.hour = $("#txtHour").val();
+        user.role = $("#selectRole").val(),
+        user.password = $("#txtPassword").val()
 
+        // Invocar al API
         var ca = new ControlActions();
         var serviceRoute = this.ApiService + "/Update";
 
         ca.PutToAPI(serviceRoute, user, function () {
             console.log("User updated -->" + JSON.stringify(user));
             // Recargar la tabla después de actualizar un usuario
-            self.LoadTable();
+            this.LoadTable();
         });
     };
 
     this.Delete = function () {
-        var user = {
-            id: $("#txtId").val()
-        };
 
+        var user = {};
+        user.id = $("#txtId").val();
+        user.identity = "123";
+        user.name = "name";
+        user.lastName1 = "lastName1";
+        user.lastName2 = "lastName2";
+        user.email = "email";
+        user.phoneNumber = "phoneNumber";
+        user.numDpt = 12;
+        user.hour = new Date().toISOString();
+        user.role = "role";
+        user.password = "password";
+
+        // Invocar al API
         var ca = new ControlActions();
         var serviceRoute = this.ApiService + "/Delete";
 
         ca.DeleteToAPI(serviceRoute, user, function () {
             console.log("User deleted -->" + JSON.stringify(user));
             // Recargar la tabla después de eliminar un usuario
-            self.LoadTable();
+            this.LoadTable();
         });
     };
 
     this.LoadTable = function () {
-        var self = this; // Guardar referencia al contexto actual
 
         var ca = new ControlActions();
+
+        //ruta API para consumir el servicio
         var urlService = ca.GetUrlApiService(this.ApiService + "/RetrieveAll");
 
-        var columns = [
-            { data: 'id' },
-            { data: 'identity' },
-            { data: 'name' },
-            { data: 'lastName1' },
-            { data: 'lastName2' },
-            { data: 'email' },
-            { data: 'phoneNumber' },
-            { data: 'numDpt' },
-            { data: 'hour' },
-            { data: 'role' },
-            { data: 'password' }
-        ];
+        var columns = [];
+        columns[0] = { 'data': 'id' }
+        columns[1] = { 'data': 'identity' }
+        columns[2] = { 'data': 'name' }
+        columns[3] = { 'data': 'lastName1' }
+        columns[4] = { 'data': 'lastName2' }
+        columns[5] = { 'data': 'email' }
+        columns[6] = { 'data': 'phoneNumber' }
+        columns[7] = { 'data': 'numDpt' }
+        columns[8] = { 'data': 'hour' }
+        columns[9] = { 'data': 'role' }
+        columns[10] = { 'data': 'password' }
 
-        // Inicialización de DataTable
-        $("#tblUsers").DataTable({
-            ajax: {
-                url: urlService,
-                dataSrc: ""
+        //inicializar la tabla como un data table
+        $("#tblUsers").dataTable({
+            "ajax": {
+                "url": urlService,
+                "dataSrc": ""
             },
-            columns: columns
+            "columns": columns
         });
 
         // Asignación de evento al clic de la fila de la tabla
         $('#tblUsers tbody').on('click', 'tr', function () {
+
+            //extrae la fila a la que le dio click
             var row = $(this).closest('tr');
+
+            //extraer la data del registro contenido en la fila
             var user = $('#tblUsers').DataTable().row(row).data();
 
-            // Asignar valores a los campos del formulario
+            //Mapeo de los valores del objeto data con el formulario
             $("#txtId").val(user.id);
             $("#txtCed").val(user.identity);
             $("#txtName").val(user.name);
