@@ -1,0 +1,43 @@
+﻿@page
+@model WebApp.Pages.UsersModel
+@{
+}
+<script src="~/js/pages/logIn.js"></script>
+
+<div class="bs-docs-section">
+    <br />
+
+</div>
+
+<div class="row">
+    <div class="col-lg-6">
+        <div class="bs-component">
+            <form>
+
+                <legend>Log In Visitas Form</legend>
+
+
+                <div class="form-group">
+                    <label for="txtEmail" class="form-label mt-4">Correo</label>
+                    <input id="txtEmail" type="email" class="form-control" aria-describedby="emailHelp" placeholder="Ingrese su correo">
+                    <small id="emailHelp" class="form-text text-muted">Nunca compartiremos sus datos.</small>
+                </div>
+                <div class="form-group">
+                    <label for="txtPassword" class="form-label mt-4">Contraseña</label>
+                    <input type="password" class="form-control" id="txtPassword" aria-describedby="emailHelp" placeholder="Ingrese su contraseña">
+                    <small id="emailHelp" class="form-text text-muted"></small>
+                </div>
+
+            </form>
+            <br />
+            <button id="btnLogIn" class="btn btn-primary" type="button" tabindex="0"><i>Log In</i></button>
+            <button id="btnCancel" class="btn btn-danger" type="button" tabindex="0">Cancelar</button>
+            <div class="mt-4">
+                <div class="d-flex link1">
+                    <p>No tienes registro de visitante?   <a asp-area="" asp-page="/Users">Registro de Visitante</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+</div>

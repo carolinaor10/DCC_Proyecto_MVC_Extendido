@@ -41,6 +41,8 @@ function UserController() {
         user.phoneNumber = $("#txtPhone").val();
         user.numDpt = $("#txtNumDptl").val();
         user.hour = $("#txtHour").val();
+        user.role = $("#selectRole").val(),
+        user.password = $("#txtPassword").val()
 
         //invocar al API
         var ca = new ControlActions();
@@ -63,6 +65,8 @@ function UserController() {
         user.phoneNumber = $("#txtPhone").val();
         user.numDpt = $("#txtNumDptl").val();
         user.hour = $("#txtHour").val();
+        user.role = $("#selectRole").val(),
+        user.password = $("#txtPassword").val()
         
 
         // Invocar al API
@@ -87,6 +91,8 @@ function UserController() {
         user.phoneNumber = "phoneNumber";
         user.numDpt = 12;
         user.hour = new Date().toISOString();
+        user.role = "role";
+        user.password = "password";
 
         // Invocar al API
         var ca = new ControlActions();
@@ -146,6 +152,8 @@ function UserController() {
             $("#txtPhone").val(user.phoneNumber);
             $("#txtNumDptl").val(user.numDpt);
             $("#txtHour").val(user.hour);
+            $("#selectRole").val(user.role);
+            $("#txtPassword").val(user.password);
 
           //  $('btnCreate').prop('disable', true);
         });
