@@ -25,6 +25,8 @@ namespace DTOs
         public int NumDpt { get; set; }
         [Required]
         public DateTime Hour { get; set; }
+        public string Condominium { get; set; }
+        public string EntryMethod { get; set; }
         public string Role { get; set; }
         public string Password { get; set; }
     }

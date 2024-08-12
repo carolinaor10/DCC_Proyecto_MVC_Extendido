@@ -31,6 +31,8 @@ namespace DataAccess.CRUD
             sqlOperation.AddVarcharParam("P_CORREO", user.Email);
             sqlOperation.AddIntParam("P_NUM_DPT_VISITADO", user.NumDpt);
             sqlOperation.AddDateTimeParam("P_HORA_ENTRADA", user.Hour);
+            sqlOperation.AddVarcharParam("P_CONDOMINIO", user.Condominium);
+            sqlOperation.AddVarcharParam("P_INGRESO", user.EntryMethod);
             sqlOperation.AddVarcharParam("P_ROL", user.Role);
             sqlOperation.AddVarcharParam("P_CONTRASENNA", user.Password);
             _dao.ExecuteProcedure(sqlOperation);
@@ -129,6 +131,8 @@ namespace DataAccess.CRUD
         sqlOperation.AddVarcharParam("P_CORREO", user.Email);
         sqlOperation.AddIntParam("P_NUM_DPT_VISITADO", user.NumDpt);
         sqlOperation.AddDateTimeParam("P_HORA_ENTRADA", user.Hour);
+        sqlOperation.AddVarcharParam("P_CONDOMINIO", user.Condominium);
+        sqlOperation.AddVarcharParam("P_INGRESO", user.EntryMethod);
         sqlOperation.AddVarcharParam("P_ROL", user.Role);
         sqlOperation.AddVarcharParam("P_CONTRASENNA", user.Password);
         _dao.ExecuteProcedure(sqlOperation);
@@ -147,6 +151,8 @@ namespace DataAccess.CRUD
             Email = (string)row["Correo"],           
             NumDpt = (int)row["Num_Dpt_Visitado"],
             Hour = (DateTime)row["Hora_Entrada"],
+            Condominium = (string)row["Condominio"],
+            EntryMethod = (string)row["Ingreso"],
             Role = (string)row["Rol"],
             Password = (string)row["Contrasenna"]
         };

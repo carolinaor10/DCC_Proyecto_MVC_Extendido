@@ -43,3 +43,14 @@ C:\Users\Katherine\OneDrive\Escritorio\Final componentes\DCC_Proyecto_MVC_Extend
 C:\Users\Katherine\OneDrive\Escritorio\Final componentes\DCC_Proyecto_MVC_Extendido\DTOs\obj\Debug\net6.0\refint\DTOs.dll
 C:\Users\Katherine\OneDrive\Escritorio\Final componentes\DCC_Proyecto_MVC_Extendido\DTOs\obj\Debug\net6.0\DTOs.pdb
 C:\Users\Katherine\OneDrive\Escritorio\Final componentes\DCC_Proyecto_MVC_Extendido\DTOs\obj\Debug\net6.0\ref\DTOs.dll
+C:\Users\Usuario\Desktop\Componentes\entrega final\DCC_Proyecto_MVC_Extendido\DTOs\bin\Debug\net6.0\DTOs.deps.json
+C:\Users\Usuario\Desktop\Componentes\entrega final\DCC_Proyecto_MVC_Extendido\DTOs\bin\Debug\net6.0\DTOs.dll
+C:\Users\Usuario\Desktop\Componentes\entrega final\DCC_Proyecto_MVC_Extendido\DTOs\bin\Debug\net6.0\DTOs.pdb
+C:\Users\Usuario\Desktop\Componentes\entrega final\DCC_Proyecto_MVC_Extendido\DTOs\obj\Debug\net6.0\DTOs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Componentes\entrega final\DCC_Proyecto_MVC_Extendido\DTOs\obj\Debug\net6.0\DTOs.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Componentes\entrega final\DCC_Proyecto_MVC_Extendido\DTOs\obj\Debug\net6.0\DTOs.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Componentes\entrega final\DCC_Proyecto_MVC_Extendido\DTOs\obj\Debug\net6.0\DTOs.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Componentes\entrega final\DCC_Proyecto_MVC_Extendido\DTOs\obj\Debug\net6.0\DTOs.dll
+C:\Users\Usuario\Desktop\Componentes\entrega final\DCC_Proyecto_MVC_Extendido\DTOs\obj\Debug\net6.0\refint\DTOs.dll
+C:\Users\Usuario\Desktop\Componentes\entrega final\DCC_Proyecto_MVC_Extendido\DTOs\obj\Debug\net6.0\DTOs.pdb
+C:\Users\Usuario\Desktop\Componentes\entrega final\DCC_Proyecto_MVC_Extendido\DTOs\obj\Debug\net6.0\ref\DTOs.dll
