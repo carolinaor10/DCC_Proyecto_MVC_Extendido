@@ -4,7 +4,22 @@
     ViewData["Title"] = "Home page";
 }
 
-<div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
-</div>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Welcome - User Home</title>
+    <link rel="stylesheet" href="~/css/site.css" />
+</head>
+<body>
+    <div class="container">
+        <h1>Bienvenido a su control de accesos</h1>
+        <p>LLeva un control óptimo de las visitas al condominio.</p>
+        <p>Manten la seguridad en cada momento.</p>
+
+        <!-- Additional content can be added here -->
+       <a class="btn btn-primary" asp-area="" asp-page="/LogIn">Inicia Sesión</a>
+    </div>
+</body>
+</html>

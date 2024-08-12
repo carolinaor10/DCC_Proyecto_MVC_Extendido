@@ -38,7 +38,7 @@
                         text: 'Inicio de sesión correcto',
                         footer: 'UCenfotec'
                     }).then(() => {
-                        window.location.href = "/Index";
+                        window.location.href = "/Users";
                     });
                 } else {
                     Swal.fire({
