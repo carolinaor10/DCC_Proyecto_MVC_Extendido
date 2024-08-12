@@ -30,8 +30,9 @@ function UserController() {
         this.LoadTable();
     }
 
-    this.Create = function () {
+    this.Create = async function () {
         //Crear un DTO de user
+        var pwd = await encryptPassword($("#txtPassword").val());
         var user = {};
         user.identity = $("#txtCed").val();
         user.name = $("#txtName").val();
@@ -41,8 +42,8 @@ function UserController() {
         user.phoneNumber = $("#txtPhone").val();
         user.numDpt = $("#txtNumDptl").val();
         user.hour = $("#txtHour").val();
-        user.role = $("#selectRole").val(),
-        user.password = $("#txtPassword").val()
+        user.role = $("#selectRole").val();
+        user.password = pwd;
 
         //invocar al API
         var ca = new ControlActions();
@@ -53,8 +54,9 @@ function UserController() {
         });
     }
     /*******voy aca*****/
-    this.Update = function () {
-        
+    this.Update = async function () {
+
+        var pwd = await encryptPassword($("#txtPassword").val());
         var user = {};
         user.id = $("#txtId").val();
         user.identity = $("#txtCed").val();
@@ -67,7 +69,7 @@ function UserController() {
         user.hour = $("#txtHour").val();
         user.role = $("#selectRole").val(),
         user.password = $("#txtPassword").val()
-        
+        user.password = pwd;
 
         // Invocar al API
         var ca = new ControlActions();
@@ -158,6 +160,19 @@ function UserController() {
           //  $('btnCreate').prop('disable', true);
         });
     }
+}
+
+async function encryptPassword(password) {
+    const encoder = new TextEncoder();
+    const data = encoder.encode(password);
+
+    const hashBuffer = await crypto.subtle.digest('SHA-256', data);
+
+
+    const hashArray = Array.from(new Uint8Array(hashBuffer));
+    const hashHex = hashArray.map(byte => byte.toString(16).padStart(2, '0')).join('');
+
+    return hashHex;
 }
 
 //instanciamiento de la clase

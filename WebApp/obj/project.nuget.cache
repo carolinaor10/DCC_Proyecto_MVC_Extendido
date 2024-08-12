@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "uQVenpTcvPqq/GIwSfV7GTFp9J8KEl/AuQUElb0dLI+Hks/k990q4Vtng+Ubui4oMBtt7XyxfXRdObzyeDMqSg==",
+  "dgSpecHash": "GSuj/8RWV7R+SJqt49CQfklk22bIbNzAfQ7NX0KHdUVmpDRiHdgFyPdIc8L4+F8InUaWrm4N1vlZTWHY1hKWmg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Usuario\\Desktop\\Componentes\\proy\\Gonzalez_Ortiz_Picado_Componentes_Laboratorio_Proceso_Desarrollo_de_Sofware\\WebApp\\WebApp.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\Katherine\\OneDrive\\Escritorio\\Final componentes\\DCC_Proyecto_MVC_Extendido\\WebApp\\WebApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Katherine\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.31\\microsoft.windowsdesktop.app.ref.6.0.31.nupkg.sha512",
+    "C:\\Users\\Katherine\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.31\\microsoft.netcore.app.ref.6.0.31.nupkg.sha512",
+    "C:\\Users\\Katherine\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.31\\microsoft.aspnetcore.app.ref.6.0.31.nupkg.sha512",
+    "C:\\Users\\Katherine\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.31\\microsoft.netcore.app.host.win-x64.6.0.31.nupkg.sha512"
+  ],
   "logs": []
 }

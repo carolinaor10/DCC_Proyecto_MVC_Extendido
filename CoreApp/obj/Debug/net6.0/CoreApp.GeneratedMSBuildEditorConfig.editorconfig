@@ -8,4 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = CoreApp
-build_property.ProjectDir = C:\Users\Usuario\Desktop\Componentes\proy\Gonzalez_Ortiz_Picado_Componentes_Laboratorio_Proceso_Desarrollo_de_Sofware\CoreApp\
+build_property.ProjectDir = C:\Users\Katherine\OneDrive\Escritorio\Final componentes\DCC_Proyecto_MVC_Extendido\CoreApp\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

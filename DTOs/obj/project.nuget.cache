@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "qL2s3CCztf1ZI8PgoLUXU0lbKIXhs3hHd5cNSiO9TYSqdhkvzh9AW1fB8U4oCXo2Boju4/npVU+PShRGYp47xw==",
+  "dgSpecHash": "XGosObSGjZ0pPCrrhlsF4arq2yJt4+HiShXitN558eaVg+G0S0VH+Tf8zJIP3W7xFVqFdVd9qVWHxR0bMXihEA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Usuario\\Desktop\\Componentes\\proy\\Gonzalez_Ortiz_Picado_Componentes_Laboratorio_Proceso_Desarrollo_de_Sofware\\DTOs\\DTOs.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\Katherine\\OneDrive\\Escritorio\\Final componentes\\DCC_Proyecto_MVC_Extendido\\DTOs\\DTOs.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Katherine\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.31\\microsoft.windowsdesktop.app.ref.6.0.31.nupkg.sha512",
+    "C:\\Users\\Katherine\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.31\\microsoft.netcore.app.ref.6.0.31.nupkg.sha512",
+    "C:\\Users\\Katherine\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.31\\microsoft.aspnetcore.app.ref.6.0.31.nupkg.sha512"
+  ],
   "logs": []
 }
