@@ -147,10 +147,10 @@ namespace WebAPI.Controllers
                 User user1 = (User)um.RetrieveUserByEmail(user);
 
 
-                if (VerifyPassword(password, user1))
+                if (user1.Password.Equals(password))
                 {
 
-                    return Ok(user1);
+                    return Ok(new { success = true, user = user1 });
                 }
                 else
                 {
@@ -161,20 +161,6 @@ namespace WebAPI.Controllers
             catch (Exception ex)
             {
                 return StatusCode(500, ex.Message);
-            }
-        }
-
-        private bool VerifyPassword(string password, User user)
-        {
-            var userPassword = user.Password;
-
-            if (password == userPassword)
-            {
-                return true;
-            }
-            else
-            {
-                return false;
             }
         }
     }
