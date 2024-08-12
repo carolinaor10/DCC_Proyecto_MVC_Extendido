@@ -9,51 +9,47 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = WebApp
 build_property.RootNamespace = WebApp
-build_property.ProjectDir = C:\Users\Katherine\OneDrive\Escritorio\AssetsManageer\WebApp\
+build_property.ProjectDir = C:\Users\Katherine\OneDrive\Escritorio\Final componentes\DCC_Proyecto_MVC_Extendido\WebApp\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Katherine\OneDrive\Escritorio\AssetsManageer\WebApp
+build_property.MSBuildProjectDirectory = C:\Users\Katherine\OneDrive\Escritorio\Final componentes\DCC_Proyecto_MVC_Extendido\WebApp
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/Katherine/OneDrive/Escritorio/AssetsManageer/WebApp/Pages/Assets.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXNzZXRzLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/Katherine/OneDrive/Escritorio/AssetsManageer/WebApp/Pages/Error.cshtml]
+[C:/Users/Katherine/OneDrive/Escritorio/Final componentes/DCC_Proyecto_MVC_Extendido/WebApp/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Katherine/OneDrive/Escritorio/AssetsManageer/WebApp/Pages/Index.cshtml]
+[C:/Users/Katherine/OneDrive/Escritorio/Final componentes/DCC_Proyecto_MVC_Extendido/WebApp/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Katherine/OneDrive/Escritorio/AssetsManageer/WebApp/Pages/MaintenancesHistory.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWFpbnRlbmFuY2VzSGlzdG9yeS5jc2h0bWw=
+[C:/Users/Katherine/OneDrive/Escritorio/Final componentes/DCC_Proyecto_MVC_Extendido/WebApp/Pages/LogIn.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTG9nSW4uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Katherine/OneDrive/Escritorio/AssetsManageer/WebApp/Pages/Privacy.cshtml]
+[C:/Users/Katherine/OneDrive/Escritorio/Final componentes/DCC_Proyecto_MVC_Extendido/WebApp/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Katherine/OneDrive/Escritorio/AssetsManageer/WebApp/Pages/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/Katherine/OneDrive/Escritorio/Final componentes/DCC_Proyecto_MVC_Extendido/WebApp/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Katherine/OneDrive/Escritorio/AssetsManageer/WebApp/Pages/Users.cshtml]
+[C:/Users/Katherine/OneDrive/Escritorio/Final componentes/DCC_Proyecto_MVC_Extendido/WebApp/Pages/Users.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXNlcnMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Katherine/OneDrive/Escritorio/AssetsManageer/WebApp/Pages/_ViewImports.cshtml]
+[C:/Users/Katherine/OneDrive/Escritorio/Final componentes/DCC_Proyecto_MVC_Extendido/WebApp/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Katherine/OneDrive/Escritorio/AssetsManageer/WebApp/Pages/_ViewStart.cshtml]
+[C:/Users/Katherine/OneDrive/Escritorio/Final componentes/DCC_Proyecto_MVC_Extendido/WebApp/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Katherine/OneDrive/Escritorio/AssetsManageer/WebApp/Pages/Shared/_Layout.cshtml]
+[C:/Users/Katherine/OneDrive/Escritorio/Final componentes/DCC_Proyecto_MVC_Extendido/WebApp/Pages/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-1lnhnt7yf2
