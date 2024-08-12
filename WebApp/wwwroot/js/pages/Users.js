@@ -41,7 +41,9 @@ function UserController() {
         user.phoneNumber = $("#txtPhone").val();
         user.numDpt = $("#txtNumDptl").val();
         user.hour = $("#txtHour").val();
-        user.role = $("#selectRole").val(),
+        user.condominium = $("#txtCondo").val();
+        user.entryMethod = $("#txtEntry").val();
+        user.role = $("#selectRol").val(),
         user.password = $("#txtPassword").val()
 
         //invocar al API
@@ -65,7 +67,9 @@ function UserController() {
         user.phoneNumber = $("#txtPhone").val();
         user.numDpt = $("#txtNumDptl").val();
         user.hour = $("#txtHour").val();
-        user.role = $("#selectRole").val(),
+        user.condominium = $("#txtCondo").val(),
+        user.entryMethod = $("#txtEntry").val(),
+        user.role = $("#selectRol").val(),
         user.password = $("#txtPassword").val()
         
 
@@ -91,6 +95,8 @@ function UserController() {
         user.phoneNumber = "phoneNumber";
         user.numDpt = 12;
         user.hour = new Date().toISOString();
+        user.condominium = "condominium";
+        user.entryMethod = "entryMethod";
         user.role = "role";
         user.password = "password";
 
@@ -123,6 +129,10 @@ function UserController() {
         columns[6] = { 'data': 'phoneNumber' }
         columns[7] = { 'data': 'numDpt' }
         columns[8] = { 'data': 'hour' }
+        columns[9] = { 'data': 'condominium' }
+        columns[10] = { 'data': 'entryMethod' }
+        columns[11] = { 'data': 'role' }
+
 
         //inicializar la tabla como un data table
         $("#tblUsers").dataTable({
@@ -152,6 +162,8 @@ function UserController() {
             $("#txtPhone").val(user.phoneNumber);
             $("#txtNumDptl").val(user.numDpt);
             $("#txtHour").val(user.hour);
+            $("#txtCondo").val(user.condominium);
+            $("#txtEntry").val(user.entryMethod);
             $("#selectRole").val(user.role);
             $("#txtPassword").val(user.password);
 
