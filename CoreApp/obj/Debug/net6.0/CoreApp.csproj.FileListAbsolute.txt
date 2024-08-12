@@ -84,3 +84,21 @@ C:\Users\Usuario\Desktop\Componentes\entrega final\DCC_Proyecto_MVC_Extendido\Co
 C:\Users\Usuario\Desktop\Componentes\entrega final\DCC_Proyecto_MVC_Extendido\CoreApp\obj\Debug\net6.0\refint\CoreApp.dll
 C:\Users\Usuario\Desktop\Componentes\entrega final\DCC_Proyecto_MVC_Extendido\CoreApp\obj\Debug\net6.0\CoreApp.pdb
 C:\Users\Usuario\Desktop\Componentes\entrega final\DCC_Proyecto_MVC_Extendido\CoreApp\obj\Debug\net6.0\ref\CoreApp.dll
+C:\Users\Katherine\OneDrive\Escritorio\FinalComponentes\DCC_Proyecto_MVC_Extendido\CoreApp\bin\Debug\net6.0\CoreApp.deps.json
+C:\Users\Katherine\OneDrive\Escritorio\FinalComponentes\DCC_Proyecto_MVC_Extendido\CoreApp\bin\Debug\net6.0\CoreApp.dll
+C:\Users\Katherine\OneDrive\Escritorio\FinalComponentes\DCC_Proyecto_MVC_Extendido\CoreApp\bin\Debug\net6.0\CoreApp.pdb
+C:\Users\Katherine\OneDrive\Escritorio\FinalComponentes\DCC_Proyecto_MVC_Extendido\CoreApp\bin\Debug\net6.0\DataAccess.dll
+C:\Users\Katherine\OneDrive\Escritorio\FinalComponentes\DCC_Proyecto_MVC_Extendido\CoreApp\bin\Debug\net6.0\DTOs.dll
+C:\Users\Katherine\OneDrive\Escritorio\FinalComponentes\DCC_Proyecto_MVC_Extendido\CoreApp\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\Katherine\OneDrive\Escritorio\FinalComponentes\DCC_Proyecto_MVC_Extendido\CoreApp\bin\Debug\net6.0\DTOs.pdb
+C:\Users\Katherine\OneDrive\Escritorio\FinalComponentes\DCC_Proyecto_MVC_Extendido\CoreApp\obj\Debug\net6.0\CoreApp.csproj.AssemblyReference.cache
+C:\Users\Katherine\OneDrive\Escritorio\FinalComponentes\DCC_Proyecto_MVC_Extendido\CoreApp\obj\Debug\net6.0\CoreApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Katherine\OneDrive\Escritorio\FinalComponentes\DCC_Proyecto_MVC_Extendido\CoreApp\obj\Debug\net6.0\CoreApp.AssemblyInfoInputs.cache
+C:\Users\Katherine\OneDrive\Escritorio\FinalComponentes\DCC_Proyecto_MVC_Extendido\CoreApp\obj\Debug\net6.0\CoreApp.AssemblyInfo.cs
+C:\Users\Katherine\OneDrive\Escritorio\FinalComponentes\DCC_Proyecto_MVC_Extendido\CoreApp\obj\Debug\net6.0\CoreApp.csproj.CoreCompileInputs.cache
+C:\Users\Katherine\OneDrive\Escritorio\FinalComponentes\DCC_Proyecto_MVC_Extendido\CoreApp\obj\Debug\net6.0\CoreApp.sourcelink.json
+C:\Users\Katherine\OneDrive\Escritorio\FinalComponentes\DCC_Proyecto_MVC_Extendido\CoreApp\obj\Debug\net6.0\CoreApp.csproj.Up2Date
+C:\Users\Katherine\OneDrive\Escritorio\FinalComponentes\DCC_Proyecto_MVC_Extendido\CoreApp\obj\Debug\net6.0\CoreApp.dll
+C:\Users\Katherine\OneDrive\Escritorio\FinalComponentes\DCC_Proyecto_MVC_Extendido\CoreApp\obj\Debug\net6.0\refint\CoreApp.dll
+C:\Users\Katherine\OneDrive\Escritorio\FinalComponentes\DCC_Proyecto_MVC_Extendido\CoreApp\obj\Debug\net6.0\CoreApp.pdb
+C:\Users\Katherine\OneDrive\Escritorio\FinalComponentes\DCC_Proyecto_MVC_Extendido\CoreApp\obj\Debug\net6.0\ref\CoreApp.dll

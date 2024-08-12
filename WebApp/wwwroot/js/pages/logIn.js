@@ -23,7 +23,9 @@
                 NumDpt: 0,
                 //Id: 0,
                 //Created: new Date().toISOString(),
-                Hour: new Date().toISOString(), // Convert Date to ISO string for compatibility
+                Hour: new Date().toISOString(), // Convert Date to ISO string for compatibility,
+                Condominium: "Cocos",
+                EntryMethod: "A pie",
                 Role: ""
             }),
             contentType: "application/json; charset=utf-8",

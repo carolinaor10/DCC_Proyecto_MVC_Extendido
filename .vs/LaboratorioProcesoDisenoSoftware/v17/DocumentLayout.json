@@ -1,42 +1,66 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Katherine\\OneDrive\\Escritorio\\Final componentes\\DCC_Proyecto_MVC_Extendido\\",
+  "WorkspaceRootPath": "C:\\Users\\Katherine\\OneDrive\\Escritorio\\FinalComponentes\\DCC_Proyecto_MVC_Extendido\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{38954066-0688-47C0-BB06-C7D9F4DD0377}|WebApp\\WebApp.csproj|c:\\users\\katherine\\onedrive\\escritorio\\final componentes\\dcc_proyecto_mvc_extendido\\webapp\\wwwroot\\js\\pages\\login.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "AbsoluteMoniker": "D:0:0:{38954066-0688-47C0-BB06-C7D9F4DD0377}|WebApp\\WebApp.csproj|c:\\users\\katherine\\onedrive\\escritorio\\finalcomponentes\\dcc_proyecto_mvc_extendido\\webapp\\pages\\iniciousuario.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{38954066-0688-47C0-BB06-C7D9F4DD0377}|WebApp\\WebApp.csproj|solutionrelative:webapp\\pages\\iniciousuario.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38954066-0688-47C0-BB06-C7D9F4DD0377}|WebApp\\WebApp.csproj|c:\\users\\katherine\\onedrive\\escritorio\\finalcomponentes\\dcc_proyecto_mvc_extendido\\webapp\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{38954066-0688-47C0-BB06-C7D9F4DD0377}|WebApp\\WebApp.csproj|solutionrelative:webapp\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38954066-0688-47C0-BB06-C7D9F4DD0377}|WebApp\\WebApp.csproj|c:\\users\\katherine\\onedrive\\escritorio\\finalcomponentes\\dcc_proyecto_mvc_extendido\\webapp\\pages\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{38954066-0688-47C0-BB06-C7D9F4DD0377}|WebApp\\WebApp.csproj|solutionrelative:webapp\\pages\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38954066-0688-47C0-BB06-C7D9F4DD0377}|WebApp\\WebApp.csproj|c:\\users\\katherine\\onedrive\\escritorio\\finalcomponentes\\dcc_proyecto_mvc_extendido\\webapp\\pages\\users.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{38954066-0688-47C0-BB06-C7D9F4DD0377}|WebApp\\WebApp.csproj|solutionrelative:webapp\\pages\\users.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38954066-0688-47C0-BB06-C7D9F4DD0377}|WebApp\\WebApp.csproj|c:\\users\\katherine\\onedrive\\escritorio\\finalcomponentes\\dcc_proyecto_mvc_extendido\\webapp\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{38954066-0688-47C0-BB06-C7D9F4DD0377}|WebApp\\WebApp.csproj|solutionrelative:webapp\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38954066-0688-47C0-BB06-C7D9F4DD0377}|WebApp\\WebApp.csproj|c:\\users\\katherine\\onedrive\\escritorio\\finalcomponentes\\dcc_proyecto_mvc_extendido\\webapp\\pages\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{38954066-0688-47C0-BB06-C7D9F4DD0377}|WebApp\\WebApp.csproj|solutionrelative:webapp\\pages\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38954066-0688-47C0-BB06-C7D9F4DD0377}|WebApp\\WebApp.csproj|c:\\users\\katherine\\onedrive\\escritorio\\finalcomponentes\\dcc_proyecto_mvc_extendido\\webapp\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{38954066-0688-47C0-BB06-C7D9F4DD0377}|WebApp\\WebApp.csproj|solutionrelative:webapp\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38954066-0688-47C0-BB06-C7D9F4DD0377}|WebApp\\WebApp.csproj|c:\\users\\katherine\\onedrive\\escritorio\\finalcomponentes\\dcc_proyecto_mvc_extendido\\webapp\\wwwroot\\js\\pages\\login.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{38954066-0688-47C0-BB06-C7D9F4DD0377}|WebApp\\WebApp.csproj|solutionrelative:webapp\\wwwroot\\js\\pages\\login.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4D5922CD-3181-4CB1-B1E1-B0CBE57BA229}|WebAPI\\WebAPI.csproj|c:\\users\\katherine\\onedrive\\escritorio\\final componentes\\dcc_proyecto_mvc_extendido\\webapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4D5922CD-3181-4CB1-B1E1-B0CBE57BA229}|WebAPI\\WebAPI.csproj|c:\\users\\katherine\\onedrive\\escritorio\\finalcomponentes\\dcc_proyecto_mvc_extendido\\webapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4D5922CD-3181-4CB1-B1E1-B0CBE57BA229}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0586368C-6A48-4989-8830-D487FF970810}|CoreApp\\CoreApp.csproj|c:\\users\\katherine\\onedrive\\escritorio\\final componentes\\dcc_proyecto_mvc_extendido\\coreapp\\usermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0586368C-6A48-4989-8830-D487FF970810}|CoreApp\\CoreApp.csproj|c:\\users\\katherine\\onedrive\\escritorio\\finalcomponentes\\dcc_proyecto_mvc_extendido\\coreapp\\usermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0586368C-6A48-4989-8830-D487FF970810}|CoreApp\\CoreApp.csproj|solutionrelative:coreapp\\usermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{38954066-0688-47C0-BB06-C7D9F4DD0377}|WebApp\\WebApp.csproj|c:\\users\\katherine\\onedrive\\escritorio\\final componentes\\dcc_proyecto_mvc_extendido\\webapp\\wwwroot\\js\\controlactions.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "AbsoluteMoniker": "D:0:0:{38954066-0688-47C0-BB06-C7D9F4DD0377}|WebApp\\WebApp.csproj|c:\\users\\katherine\\onedrive\\escritorio\\finalcomponentes\\dcc_proyecto_mvc_extendido\\webapp\\wwwroot\\js\\controlactions.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{38954066-0688-47C0-BB06-C7D9F4DD0377}|WebApp\\WebApp.csproj|solutionrelative:webapp\\wwwroot\\js\\controlactions.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{38954066-0688-47C0-BB06-C7D9F4DD0377}|WebApp\\WebApp.csproj|c:\\users\\katherine\\onedrive\\escritorio\\final componentes\\dcc_proyecto_mvc_extendido\\webapp\\wwwroot\\js\\pages\\users.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "AbsoluteMoniker": "D:0:0:{38954066-0688-47C0-BB06-C7D9F4DD0377}|WebApp\\WebApp.csproj|c:\\users\\katherine\\onedrive\\escritorio\\finalcomponentes\\dcc_proyecto_mvc_extendido\\webapp\\wwwroot\\js\\pages\\users.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{38954066-0688-47C0-BB06-C7D9F4DD0377}|WebApp\\WebApp.csproj|solutionrelative:webapp\\wwwroot\\js\\pages\\users.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{18C7DB4C-9E55-4C8E-9429-CD31F6F3FCBD}|DTOs\\DTOs.csproj|c:\\users\\katherine\\onedrive\\escritorio\\final componentes\\dcc_proyecto_mvc_extendido\\dtos\\basedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{18C7DB4C-9E55-4C8E-9429-CD31F6F3FCBD}|DTOs\\DTOs.csproj|c:\\users\\katherine\\onedrive\\escritorio\\finalcomponentes\\dcc_proyecto_mvc_extendido\\dtos\\basedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{18C7DB4C-9E55-4C8E-9429-CD31F6F3FCBD}|DTOs\\DTOs.csproj|solutionrelative:dtos\\basedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{18C7DB4C-9E55-4C8E-9429-CD31F6F3FCBD}|DTOs\\DTOs.csproj|c:\\users\\katherine\\onedrive\\escritorio\\final componentes\\dcc_proyecto_mvc_extendido\\dtos\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{18C7DB4C-9E55-4C8E-9429-CD31F6F3FCBD}|DTOs\\DTOs.csproj|c:\\users\\katherine\\onedrive\\escritorio\\finalcomponentes\\dcc_proyecto_mvc_extendido\\dtos\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{18C7DB4C-9E55-4C8E-9429-CD31F6F3FCBD}|DTOs\\DTOs.csproj|solutionrelative:dtos\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E0BC0570-EE3B-4C24-966E-574C7E68DE75}|DataAccess\\DataAccess.csproj|c:\\users\\katherine\\onedrive\\escritorio\\final componentes\\dcc_proyecto_mvc_extendido\\dataaccess\\crud\\usercrudfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E0BC0570-EE3B-4C24-966E-574C7E68DE75}|DataAccess\\DataAccess.csproj|c:\\users\\katherine\\onedrive\\escritorio\\finalcomponentes\\dcc_proyecto_mvc_extendido\\dataaccess\\crud\\usercrudfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E0BC0570-EE3B-4C24-966E-574C7E68DE75}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\crud\\usercrudfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{38954066-0688-47C0-BB06-C7D9F4DD0377}|WebApp\\WebApp.csproj|c:\\users\\katherine\\onedrive\\escritorio\\final componentes\\dcc_proyecto_mvc_extendido\\webapp\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{38954066-0688-47C0-BB06-C7D9F4DD0377}|WebApp\\WebApp.csproj|solutionrelative:webapp\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,7 +70,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 122,
-          "SelectedChildIndex": 12,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Bookmark",
@@ -85,36 +109,94 @@
               "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Users.js",
-              "DocumentMoniker": "C:\\Users\\Katherine\\OneDrive\\Escritorio\\Final componentes\\DCC_Proyecto_MVC_Extendido\\WebApp\\wwwroot\\js\\pages\\Users.js",
-              "RelativeDocumentMoniker": "WebApp\\wwwroot\\js\\pages\\Users.js",
-              "ToolTip": "C:\\Users\\Katherine\\OneDrive\\Escritorio\\Final componentes\\DCC_Proyecto_MVC_Extendido\\WebApp\\wwwroot\\js\\pages\\Users.js",
-              "RelativeToolTip": "WebApp\\wwwroot\\js\\pages\\Users.js",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEIAAAAoAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-08-12T04:11:30.073Z"
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "BaseDTO.cs",
-              "DocumentMoniker": "C:\\Users\\Katherine\\OneDrive\\Escritorio\\Final componentes\\DCC_Proyecto_MVC_Extendido\\DTOs\\BaseDTO.cs",
-              "RelativeDocumentMoniker": "DTOs\\BaseDTO.cs",
-              "ToolTip": "C:\\Users\\Katherine\\OneDrive\\Escritorio\\Final componentes\\DCC_Proyecto_MVC_Extendido\\DTOs\\BaseDTO.cs",
-              "RelativeToolTip": "DTOs\\BaseDTO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAYAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-12T03:34:42.528Z"
+              "DocumentIndex": 0,
+              "Title": "InicioUsuario.cshtml",
+              "DocumentMoniker": "C:\\Users\\Katherine\\OneDrive\\Escritorio\\FinalComponentes\\DCC_Proyecto_MVC_Extendido\\WebApp\\Pages\\InicioUsuario.cshtml",
+              "RelativeDocumentMoniker": "WebApp\\Pages\\InicioUsuario.cshtml",
+              "ToolTip": "C:\\Users\\Katherine\\OneDrive\\Escritorio\\FinalComponentes\\DCC_Proyecto_MVC_Extendido\\WebApp\\Pages\\InicioUsuario.cshtml*",
+              "RelativeToolTip": "WebApp\\Pages\\InicioUsuario.cshtml*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-12T15:43:06.731Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "Users.cshtml",
+              "DocumentMoniker": "C:\\Users\\Katherine\\OneDrive\\Escritorio\\FinalComponentes\\DCC_Proyecto_MVC_Extendido\\WebApp\\Pages\\Users.cshtml",
+              "RelativeDocumentMoniker": "WebApp\\Pages\\Users.cshtml",
+              "ToolTip": "C:\\Users\\Katherine\\OneDrive\\Escritorio\\FinalComponentes\\DCC_Proyecto_MVC_Extendido\\WebApp\\Pages\\Users.cshtml",
+              "RelativeToolTip": "WebApp\\Pages\\Users.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-12T15:39:03.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Katherine\\OneDrive\\Escritorio\\FinalComponentes\\DCC_Proyecto_MVC_Extendido\\WebApp\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "WebApp\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\Katherine\\OneDrive\\Escritorio\\FinalComponentes\\DCC_Proyecto_MVC_Extendido\\WebApp\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "WebApp\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-12T15:37:54.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Katherine\\OneDrive\\Escritorio\\FinalComponentes\\DCC_Proyecto_MVC_Extendido\\WebApp\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApp\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Katherine\\OneDrive\\Escritorio\\FinalComponentes\\DCC_Proyecto_MVC_Extendido\\WebApp\\Pages\\Index.cshtml",
+              "RelativeToolTip": "WebApp\\Pages\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-12T15:37:50.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LogIn.cshtml",
+              "DocumentMoniker": "C:\\Users\\Katherine\\OneDrive\\Escritorio\\FinalComponentes\\DCC_Proyecto_MVC_Extendido\\WebApp\\Pages\\LogIn.cshtml",
+              "RelativeDocumentMoniker": "WebApp\\Pages\\LogIn.cshtml",
+              "ToolTip": "C:\\Users\\Katherine\\OneDrive\\Escritorio\\FinalComponentes\\DCC_Proyecto_MVC_Extendido\\WebApp\\Pages\\LogIn.cshtml",
+              "RelativeToolTip": "WebApp\\Pages\\LogIn.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-12T15:37:37.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\Katherine\\OneDrive\\Escritorio\\FinalComponentes\\DCC_Proyecto_MVC_Extendido\\WebApp\\Pages\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "WebApp\\Pages\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\Katherine\\OneDrive\\Escritorio\\FinalComponentes\\DCC_Proyecto_MVC_Extendido\\WebApp\\Pages\\Privacy.cshtml",
+              "RelativeToolTip": "WebApp\\Pages\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-12T15:37:36.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "ControlActions.js",
-              "DocumentMoniker": "C:\\Users\\Katherine\\OneDrive\\Escritorio\\Final componentes\\DCC_Proyecto_MVC_Extendido\\WebApp\\wwwroot\\js\\ControlActions.js",
+              "DocumentMoniker": "C:\\Users\\Katherine\\OneDrive\\Escritorio\\FinalComponentes\\DCC_Proyecto_MVC_Extendido\\WebApp\\wwwroot\\js\\ControlActions.js",
               "RelativeDocumentMoniker": "WebApp\\wwwroot\\js\\ControlActions.js",
-              "ToolTip": "C:\\Users\\Katherine\\OneDrive\\Escritorio\\Final componentes\\DCC_Proyecto_MVC_Extendido\\WebApp\\wwwroot\\js\\ControlActions.js",
+              "ToolTip": "C:\\Users\\Katherine\\OneDrive\\Escritorio\\FinalComponentes\\DCC_Proyecto_MVC_Extendido\\WebApp\\wwwroot\\js\\ControlActions.js",
               "RelativeToolTip": "WebApp\\wwwroot\\js\\ControlActions.js",
               "ViewState": "AQIAAHQAAAAAAAAAAAAmwAMAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
@@ -122,11 +204,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 7,
               "Title": "logIn.js",
-              "DocumentMoniker": "C:\\Users\\Katherine\\OneDrive\\Escritorio\\Final componentes\\DCC_Proyecto_MVC_Extendido\\WebApp\\wwwroot\\js\\pages\\logIn.js",
+              "DocumentMoniker": "C:\\Users\\Katherine\\OneDrive\\Escritorio\\FinalComponentes\\DCC_Proyecto_MVC_Extendido\\WebApp\\wwwroot\\js\\pages\\logIn.js",
               "RelativeDocumentMoniker": "WebApp\\wwwroot\\js\\pages\\logIn.js",
-              "ToolTip": "C:\\Users\\Katherine\\OneDrive\\Escritorio\\Final componentes\\DCC_Proyecto_MVC_Extendido\\WebApp\\wwwroot\\js\\pages\\logIn.js",
+              "ToolTip": "C:\\Users\\Katherine\\OneDrive\\Escritorio\\FinalComponentes\\DCC_Proyecto_MVC_Extendido\\WebApp\\wwwroot\\js\\pages\\logIn.js",
               "RelativeToolTip": "WebApp\\wwwroot\\js\\pages\\logIn.js",
               "ViewState": "AQIAAAUAAAAAAAAAAAAIwBcAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
@@ -136,23 +218,59 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "UserController.cs",
-              "DocumentMoniker": "C:\\Users\\Katherine\\OneDrive\\Escritorio\\Final componentes\\DCC_Proyecto_MVC_Extendido\\WebAPI\\Controllers\\UserController.cs",
-              "RelativeDocumentMoniker": "WebAPI\\Controllers\\UserController.cs",
-              "ToolTip": "C:\\Users\\Katherine\\OneDrive\\Escritorio\\Final componentes\\DCC_Proyecto_MVC_Extendido\\WebAPI\\Controllers\\UserController.cs",
-              "RelativeToolTip": "WebAPI\\Controllers\\UserController.cs",
-              "ViewState": "AQIAAIIAAAAAAAAAAIAwwIwAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-12T02:34:31.842Z",
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Katherine\\OneDrive\\Escritorio\\FinalComponentes\\DCC_Proyecto_MVC_Extendido\\WebApp\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebApp\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Katherine\\OneDrive\\Escritorio\\FinalComponentes\\DCC_Proyecto_MVC_Extendido\\WebApp\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebApp\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-12T02:21:45.558Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 12,
+              "Title": "BaseDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Katherine\\OneDrive\\Escritorio\\FinalComponentes\\DCC_Proyecto_MVC_Extendido\\DTOs\\BaseDTO.cs",
+              "RelativeDocumentMoniker": "DTOs\\BaseDTO.cs",
+              "ToolTip": "C:\\Users\\Katherine\\OneDrive\\Escritorio\\FinalComponentes\\DCC_Proyecto_MVC_Extendido\\DTOs\\BaseDTO.cs",
+              "RelativeToolTip": "DTOs\\BaseDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T03:34:42.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Users.js",
+              "DocumentMoniker": "C:\\Users\\Katherine\\OneDrive\\Escritorio\\FinalComponentes\\DCC_Proyecto_MVC_Extendido\\WebApp\\wwwroot\\js\\pages\\Users.js",
+              "RelativeDocumentMoniker": "WebApp\\wwwroot\\js\\pages\\Users.js",
+              "ToolTip": "C:\\Users\\Katherine\\OneDrive\\Escritorio\\FinalComponentes\\DCC_Proyecto_MVC_Extendido\\WebApp\\wwwroot\\js\\pages\\Users.js",
+              "RelativeToolTip": "WebApp\\wwwroot\\js\\pages\\Users.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEIAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-08-12T04:11:30.073Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\Katherine\\OneDrive\\Escritorio\\FinalComponentes\\DCC_Proyecto_MVC_Extendido\\WebAPI\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\Katherine\\OneDrive\\Escritorio\\FinalComponentes\\DCC_Proyecto_MVC_Extendido\\WebAPI\\Controllers\\UserController.cs",
+              "RelativeToolTip": "WebAPI\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAIIAAAAAAAAAAIAwwIwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T02:34:31.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "UserManager.cs",
-              "DocumentMoniker": "C:\\Users\\Katherine\\OneDrive\\Escritorio\\Final componentes\\DCC_Proyecto_MVC_Extendido\\CoreApp\\UserManager.cs",
+              "DocumentMoniker": "C:\\Users\\Katherine\\OneDrive\\Escritorio\\FinalComponentes\\DCC_Proyecto_MVC_Extendido\\CoreApp\\UserManager.cs",
               "RelativeDocumentMoniker": "CoreApp\\UserManager.cs",
-              "ToolTip": "C:\\Users\\Katherine\\OneDrive\\Escritorio\\Final componentes\\DCC_Proyecto_MVC_Extendido\\CoreApp\\UserManager.cs",
+              "ToolTip": "C:\\Users\\Katherine\\OneDrive\\Escritorio\\FinalComponentes\\DCC_Proyecto_MVC_Extendido\\CoreApp\\UserManager.cs",
               "RelativeToolTip": "CoreApp\\UserManager.cs",
               "ViewState": "AQIAACsAAAAAAAAAAADwv1EAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -160,23 +278,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Katherine\\OneDrive\\Escritorio\\Final componentes\\DCC_Proyecto_MVC_Extendido\\WebApp\\Pages\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "WebApp\\Pages\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\Katherine\\OneDrive\\Escritorio\\Final componentes\\DCC_Proyecto_MVC_Extendido\\WebApp\\Pages\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "WebApp\\Pages\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABHAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-12T02:21:45.558Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 13,
               "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\Katherine\\OneDrive\\Escritorio\\Final componentes\\DCC_Proyecto_MVC_Extendido\\DTOs\\User.cs",
+              "DocumentMoniker": "C:\\Users\\Katherine\\OneDrive\\Escritorio\\FinalComponentes\\DCC_Proyecto_MVC_Extendido\\DTOs\\User.cs",
               "RelativeDocumentMoniker": "DTOs\\User.cs",
-              "ToolTip": "C:\\Users\\Katherine\\OneDrive\\Escritorio\\Final componentes\\DCC_Proyecto_MVC_Extendido\\DTOs\\User.cs",
+              "ToolTip": "C:\\Users\\Katherine\\OneDrive\\Escritorio\\FinalComponentes\\DCC_Proyecto_MVC_Extendido\\DTOs\\User.cs",
               "RelativeToolTip": "DTOs\\User.cs",
               "ViewState": "AQIAAAEAAAAAAAAAAAAiwBwAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -184,11 +290,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 14,
               "Title": "UserCrudFactory.cs",
-              "DocumentMoniker": "C:\\Users\\Katherine\\OneDrive\\Escritorio\\Final componentes\\DCC_Proyecto_MVC_Extendido\\DataAccess\\CRUD\\UserCrudFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Katherine\\OneDrive\\Escritorio\\FinalComponentes\\DCC_Proyecto_MVC_Extendido\\DataAccess\\CRUD\\UserCrudFactory.cs",
               "RelativeDocumentMoniker": "DataAccess\\CRUD\\UserCrudFactory.cs",
-              "ToolTip": "C:\\Users\\Katherine\\OneDrive\\Escritorio\\Final componentes\\DCC_Proyecto_MVC_Extendido\\DataAccess\\CRUD\\UserCrudFactory.cs",
+              "ToolTip": "C:\\Users\\Katherine\\OneDrive\\Escritorio\\FinalComponentes\\DCC_Proyecto_MVC_Extendido\\DataAccess\\CRUD\\UserCrudFactory.cs",
               "RelativeToolTip": "DataAccess\\CRUD\\UserCrudFactory.cs",
               "ViewState": "AQIAAHIAAAAAAAAAAAAwwJAAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
