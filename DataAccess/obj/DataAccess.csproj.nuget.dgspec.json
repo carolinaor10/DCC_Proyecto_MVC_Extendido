@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Katherine\\OneDrive\\Escritorio\\Final componentes\\DCC_Proyecto_MVC_Extendido\\DataAccess\\DataAccess.csproj": {}
+    "C:\\Users\\Usuario\\Desktop\\Componentes\\entrega final\\DCC_Proyecto_MVC_Extendido\\DataAccess\\DataAccess.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Katherine\\OneDrive\\Escritorio\\Final componentes\\DCC_Proyecto_MVC_Extendido\\DataAccess\\DataAccess.csproj": {
+    "C:\\Users\\Usuario\\Desktop\\Componentes\\entrega final\\DCC_Proyecto_MVC_Extendido\\DataAccess\\DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Katherine\\OneDrive\\Escritorio\\Final componentes\\DCC_Proyecto_MVC_Extendido\\DataAccess\\DataAccess.csproj",
+        "projectUniqueName": "C:\\Users\\Usuario\\Desktop\\Componentes\\entrega final\\DCC_Proyecto_MVC_Extendido\\DataAccess\\DataAccess.csproj",
         "projectName": "DataAccess",
-        "projectPath": "C:\\Users\\Katherine\\OneDrive\\Escritorio\\Final componentes\\DCC_Proyecto_MVC_Extendido\\DataAccess\\DataAccess.csproj",
-        "packagesPath": "C:\\Users\\Katherine\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Katherine\\OneDrive\\Escritorio\\Final componentes\\DCC_Proyecto_MVC_Extendido\\DataAccess\\obj\\",
+        "projectPath": "C:\\Users\\Usuario\\Desktop\\Componentes\\entrega final\\DCC_Proyecto_MVC_Extendido\\DataAccess\\DataAccess.csproj",
+        "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Usuario\\Desktop\\Componentes\\entrega final\\DCC_Proyecto_MVC_Extendido\\DataAccess\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Katherine\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -28,8 +32,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Katherine\\OneDrive\\Escritorio\\Final componentes\\DCC_Proyecto_MVC_Extendido\\DTOs\\DTOs.csproj": {
-                "projectPath": "C:\\Users\\Katherine\\OneDrive\\Escritorio\\Final componentes\\DCC_Proyecto_MVC_Extendido\\DTOs\\DTOs.csproj"
+              "C:\\Users\\Usuario\\Desktop\\Componentes\\entrega final\\DCC_Proyecto_MVC_Extendido\\DTOs\\DTOs.csproj": {
+                "projectPath": "C:\\Users\\Usuario\\Desktop\\Componentes\\entrega final\\DCC_Proyecto_MVC_Extendido\\DTOs\\DTOs.csproj"
               }
             }
           }
@@ -38,11 +42,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -65,40 +64,30 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[6.0.31, 6.0.31]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[6.0.31, 6.0.31]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[6.0.31, 6.0.31]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.206\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Katherine\\OneDrive\\Escritorio\\Final componentes\\DCC_Proyecto_MVC_Extendido\\DTOs\\DTOs.csproj": {
+    "C:\\Users\\Usuario\\Desktop\\Componentes\\entrega final\\DCC_Proyecto_MVC_Extendido\\DTOs\\DTOs.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Katherine\\OneDrive\\Escritorio\\Final componentes\\DCC_Proyecto_MVC_Extendido\\DTOs\\DTOs.csproj",
+        "projectUniqueName": "C:\\Users\\Usuario\\Desktop\\Componentes\\entrega final\\DCC_Proyecto_MVC_Extendido\\DTOs\\DTOs.csproj",
         "projectName": "DTOs",
-        "projectPath": "C:\\Users\\Katherine\\OneDrive\\Escritorio\\Final componentes\\DCC_Proyecto_MVC_Extendido\\DTOs\\DTOs.csproj",
-        "packagesPath": "C:\\Users\\Katherine\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Katherine\\OneDrive\\Escritorio\\Final componentes\\DCC_Proyecto_MVC_Extendido\\DTOs\\obj\\",
+        "projectPath": "C:\\Users\\Usuario\\Desktop\\Componentes\\entrega final\\DCC_Proyecto_MVC_Extendido\\DTOs\\DTOs.csproj",
+        "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Usuario\\Desktop\\Componentes\\entrega final\\DCC_Proyecto_MVC_Extendido\\DTOs\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Katherine\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -118,11 +107,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -139,26 +123,12 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[6.0.31, 6.0.31]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[6.0.31, 6.0.31]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[6.0.31, 6.0.31]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.206\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }

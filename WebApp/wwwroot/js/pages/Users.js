@@ -42,6 +42,8 @@ function UserController() {
         user.phoneNumber = $("#txtPhone").val();
         user.numDpt = $("#txtNumDptl").val();
         user.hour = $("#txtHour").val();
+        user.condominium = $("#txtCondo").val();
+        user.entryMethod = $("#txtEntry").val();
         user.role = $("#selectRole").val();
         user.password = pwd;
 
@@ -67,6 +69,8 @@ function UserController() {
         user.phoneNumber = $("#txtPhone").val();
         user.numDpt = $("#txtNumDptl").val();
         user.hour = $("#txtHour").val();
+        user.condominium = $("#txtCondo").val();
+        user.entryMethod = $("#txtEntry").val();
         user.role = $("#selectRole").val(),
         user.password = $("#txtPassword").val()
         user.password = pwd;
@@ -93,6 +97,8 @@ function UserController() {
         user.phoneNumber = "phoneNumber";
         user.numDpt = 12;
         user.hour = new Date().toISOString();
+        user.condominium = "condominium";
+        user.entryMethod = "entryMethod";
         user.role = "role";
         user.password = "password";
 
@@ -154,6 +160,8 @@ function UserController() {
             $("#txtPhone").val(user.phoneNumber);
             $("#txtNumDptl").val(user.numDpt);
             $("#txtHour").val(user.hour);
+            $("#txtCondo").val(user.condominium);
+            $("#txtEntry").val(user.entryMethod);
             $("#selectRole").val(user.role);
             $("#txtPassword").val(user.password);
 
